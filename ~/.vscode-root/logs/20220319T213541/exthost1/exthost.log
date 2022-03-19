@@ -1,0 +1,38 @@
+[2022-03-19 21:35:49.317] [exthost] [info] Extension host with pid 39640 started
+[2022-03-19 21:35:49.655] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-03-19 21:35:49.695] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-03-19 21:35:49.724] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-03-19 21:35:49.820] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer, startup: true, activationEvent: '*'
+[2022-03-19 21:35:50.586] [exthost] [info] ExtensionService#_doActivateExtension RobbOwen.synthwave-vscode, startup: true, activationEvent: '*'
+[2022-03-19 21:35:50.697] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-03-19 21:35:50.979] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-03-19 21:35:51.079] [exthost] [info] Eager extensions activated
+[2022-03-19 21:35:51.133] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-19 21:35:51.169] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-19 21:36:09.644] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-03-19 21:36:09.652] [exthost] [info] Extension host with pid 39640 exiting with code 0
+[2022-03-19 21:36:13.622] [exthost] [info] Extension host with pid 39714 started
+[2022-03-19 21:36:13.623] [exthost] [info] Skipping acquiring lock for /var/www/html/hotel_project/~/.vscode-root/User/workspaceStorage/11e8408c35694307231992d9f44b3129.
+[2022-03-19 21:36:13.838] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-03-19 21:36:13.845] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-03-19 21:36:13.850] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-03-19 21:36:13.857] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2022-03-19 21:36:14.342] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-03-19 21:36:14.353] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+[2022-03-19 21:36:14.387] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer, startup: false, activationEvent: '*'
+[2022-03-19 21:36:14.411] [exthost] [info] ExtensionService#_doActivateExtension RobbOwen.synthwave-vscode, startup: false, activationEvent: '*'
+[2022-03-19 21:36:15.012] [exthost] [info] ExtensionService#_doActivateExtension zobo.php-intellisense, startup: true, activationEvent: 'workspaceContains:**/*.php'
+[2022-03-19 21:36:15.851] [exthost] [info] Eager extensions activated
+[2022-03-19 21:36:15.863] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-19 21:36:15.878] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-19 21:37:10.568] [exthost] [info] ExtensionService#_doActivateExtension vscode.php-language-features, startup: false, activationEvent: 'onLanguage:php'
+[2022-03-19 21:37:10.600] [exthost] [info] ExtensionService#_doActivateExtension bmewburn.vscode-intelephense-client, startup: false, activationEvent: 'onLanguage:php'
+[2022-03-19 21:37:10.832] [exthost] [info] ExtensionService#_doActivateExtension codingyu.laravel-goto-view, startup: false, activationEvent: 'onLanguage:php'
+[2022-03-19 22:11:47.862] [exthost] [info] ExtensionService#_doActivateExtension onecentlin.laravel-blade, startup: false, activationEvent: 'onLanguage:blade'
+[2022-03-19 22:11:49.168] [exthost] [info] ExtensionService#_doActivateExtension shufo.vscode-blade-formatter, startup: false, activationEvent: 'onLanguage:blade'
+[2022-03-19 22:12:21.844] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-03-19 22:12:22.057] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-03-19 22:12:22.332] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-03-19 22:32:25.272] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1169
+[2022-03-19 22:43:20.982] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1171
+[2022-03-19 22:43:26.095] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1172

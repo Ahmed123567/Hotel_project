@@ -1,0 +1,16 @@
+[2022-03-19 21:35:41.378] [main] [info] update#setState idle
+[2022-03-19 21:35:41.746] [main] [info] window#load: attempt to load window (id: 1)
+[2022-03-19 21:35:41.922] [main] [info] ExtensionHostStarterWorker created
+[2022-03-19 21:35:45.781] [main] [info] window#load: window reported ready (id: 1)
+[2022-03-19 21:35:46.590] [main] [info] Starting extension host with pid 39640 (fork() took 30 ms).
+[2022-03-19 21:35:46.590] [main] [info] ExtensionHostStarterWorker.start() took 39 ms.
+[2022-03-19 21:36:09.733] [main] [info] window#load: attempt to load window (id: 1)
+[2022-03-19 21:36:09.748] [main] [info] Extension host with pid 39640 exited with code: 0, signal: null.
+[2022-03-19 21:36:11.202] [main] [info] window#load: window reported ready (id: 1)
+[2022-03-19 21:36:11.380] [main] [info] update#setState checking for updates
+[2022-03-19 21:36:11.382] [main] [info] update#setState idle
+[2022-03-19 21:36:11.865] [main] [info] Starting extension host with pid 39714 (fork() took 14 ms).
+[2022-03-19 21:36:11.865] [main] [info] ExtensionHostStarterWorker.start() took 18 ms.
+[2022-03-19 22:11:54.408] [main] [info] Enabling inspect port on extension host with pid 39714.
+[2022-03-19 22:36:11.408] [main] [info] update#setState checking for updates
+[2022-03-19 22:36:11.433] [main] [info] update#setState idle

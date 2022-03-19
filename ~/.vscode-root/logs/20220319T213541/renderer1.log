@@ -1,0 +1,5 @@
+[2022-03-19 21:35:48.474] [renderer1] [error] ["Error: Unknown or unsupported transport “disabled” for address “disabled:”"]
+[2022-03-19 21:35:48.475] [renderer1] [warning] Settings Sync: Accounts are not initialized
+[2022-03-19 21:36:12.701] [renderer1] [error] ["Error: Unknown or unsupported transport “disabled” for address “disabled:”"]
+[2022-03-19 21:36:12.702] [renderer1] [warning] Settings Sync: Accounts are not initialized
+[2022-03-19 22:43:26.030] [renderer1] [error] Failed to execute git

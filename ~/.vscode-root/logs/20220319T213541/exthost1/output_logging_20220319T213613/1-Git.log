@@ -1,0 +1,23 @@
+[2022-03-19T19:36:14.498Z] Validating found git in: git
+[2022-03-19T19:36:14.568Z] Using git 2.26.2 from git
+[2022-03-19T20:32:24.797Z] > git rev-parse --git-dir [1ms]
+[2022-03-19T20:32:24.871Z] Open repository: /var/www/html/hotel_project
+[2022-03-19T20:32:25.153Z] > git symbolic-ref --short HEAD [1ms]
+[2022-03-19T20:32:25.191Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master [5ms]
+[2022-03-19T20:32:25.214Z] > git remote --verbose [3ms]
+[2022-03-19T20:32:25.215Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [13ms]
+[2022-03-19T20:32:25.297Z] > git config --get commit.template [2ms]
+[2022-03-19T20:32:26.111Z] > git ls-files --stage -- /var/www/html/hotel_project/routes/web.php [5ms]
+[2022-03-19T20:43:20.879Z] > git symbolic-ref --short HEAD [2ms]
+[2022-03-19T20:43:20.894Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master [2ms]
+[2022-03-19T20:43:20.947Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [40ms]
+[2022-03-19T20:43:20.949Z] > git ls-files --stage -- /var/www/html/hotel_project/routes/web.php [5ms]
+[2022-03-19T20:43:20.949Z] > git remote --verbose [24ms]
+[2022-03-19T20:43:21.005Z] > git config --get commit.template [2ms]
+[2022-03-19T20:43:25.901Z] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /var/www/html/hotel_project/routes/web.php [3ms]
+[2022-03-19T20:43:25.901Z] fatal: your current branch 'master' does not have any commits yet
+[2022-03-19T20:43:26.038Z] > git symbolic-ref --short HEAD [2ms]
+[2022-03-19T20:43:26.050Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master [2ms]
+[2022-03-19T20:43:26.071Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [11ms]
+[2022-03-19T20:43:26.072Z] > git remote --verbose [3ms]
+[2022-03-19T20:43:26.115Z] > git config --get commit.template [1ms]

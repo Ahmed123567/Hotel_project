@@ -1,0 +1,86 @@
+[Info  - 9:37:12 PM] Initialising intelephense 1.8.2
+[Info  - 9:37:12 PM] Initialised in 23 ms
+[Info  - 9:37:12 PM] Environment changed. Refreshing 1 in memory documents.
+[Info  - 9:37:12 PM] Searching file:///root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.8.2/node_modules/intelephense/lib/stub for files to index.
+[Info  - 9:37:13 PM] Searching file:///var/www/html/hotel_project for files to index.
+[Warn  - 9:37:14 PM] file:///var/www/html/hotel_project/vendor/fakerphp/faker/src/Faker/Provider/nl_BE/Text.php is over the maximum file size of 1000000 bytes.
+[Info  - 9:37:14 PM] Indexing started.
+[Info  - 9:37:41 PM] Indexing ended. 6583 files indexed in 26s.
+[Info  - 9:37:41 PM] Writing state to /var/www/html/hotel_project/~/.vscode-root/User/workspaceStorage/11e8408c35694307231992d9f44b3129/bmewburn.vscode-intelephense-client/4534594a.
+[Info  - 9:37:43 PM] Wrote state in 2.1s.
+[Info  - 9:40:34 PM] Indexing started.
+[Info  - 9:40:34 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 9:40:38 PM] Indexing started.
+[Info  - 9:40:38 PM] Indexing ended. 3 files indexed in 0s.
+[Info  - 9:40:38 PM] Indexing started.
+[Info  - 9:40:38 PM] Indexing ended. 2 files indexed in 0s.
+[Info  - 9:40:39 PM] Indexing started.
+[Info  - 9:40:39 PM] Indexing ended. 3 files indexed in 0s.
+[Info  - 9:41:17 PM] Indexing started.
+[Info  - 9:41:17 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 9:41:20 PM] Indexing started.
+[Info  - 9:41:20 PM] Indexing ended. 5 files indexed in 0s.
+[Info  - 9:46:40 PM] Indexing started.
+[Info  - 9:46:40 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 9:46:43 PM] Indexing started.
+[Info  - 9:46:44 PM] Indexing ended. 5 files indexed in 0s.
+[Info  - 10:02:31 PM] Indexing started.
+[Info  - 10:02:31 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 10:02:33 PM] Indexing started.
+[Info  - 10:02:34 PM] Indexing ended. 8 files indexed in 0s.
+[Info  - 10:03:01 PM] Indexing started.
+[Info  - 10:03:01 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 10:03:07 PM] Indexing started.
+[Info  - 10:03:07 PM] Indexing ended. 2 files indexed in 0s.
+[Info  - 10:03:51 PM] Indexing started.
+[Info  - 10:03:51 PM] Indexing ended. 5 files indexed in 0s.
+[Info  - 10:04:43 PM] Indexing started.
+[Info  - 10:04:43 PM] Indexing ended. 16 files indexed in 0s.
+[Info  - 10:05:18 PM] Indexing started.
+[Info  - 10:05:18 PM] Indexing ended. 2 files indexed in 0s.
+[Info  - 10:12:02 PM] Indexing started.
+[Info  - 10:12:02 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 10:12:49 PM] Indexing started.
+[Info  - 10:12:49 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 10:12:53 PM] Indexing started.
+[Info  - 10:12:53 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 10:12:57 PM] Indexing started.
+[Info  - 10:12:57 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 10:13:02 PM] Indexing started.
+[Info  - 10:13:02 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 10:13:37 PM] Indexing started.
+[Info  - 10:13:37 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 10:17:01 PM] Indexing started.
+[Info  - 10:17:02 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 10:17:07 PM] Indexing started.
+[Info  - 10:17:07 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 10:17:21 PM] Indexing started.
+[Info  - 10:17:21 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 10:17:23 PM] Indexing started.
+[Info  - 10:17:23 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 10:18:17 PM] Indexing started.
+[Info  - 10:18:17 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 10:18:20 PM] Indexing started.
+[Info  - 10:18:20 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 10:19:26 PM] Indexing started.
+[Info  - 10:19:26 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 10:19:28 PM] Indexing started.
+[Info  - 10:19:28 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 10:20:26 PM] Indexing started.
+[Info  - 10:20:27 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 10:20:28 PM] Indexing started.
+[Info  - 10:20:29 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 10:21:09 PM] Indexing started.
+[Info  - 10:21:09 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 10:21:28 PM] Indexing started.
+[Info  - 10:21:28 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 10:23:55 PM] Indexing started.
+[Info  - 10:23:55 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 10:24:00 PM] Indexing started.
+[Info  - 10:24:00 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 10:25:04 PM] Indexing started.
+[Info  - 10:25:04 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 10:25:07 PM] Indexing started.
+[Info  - 10:25:07 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 10:25:50 PM] Indexing started.
+[Info  - 10:25:51 PM] Indexing ended. 1 files indexed in 0s.
