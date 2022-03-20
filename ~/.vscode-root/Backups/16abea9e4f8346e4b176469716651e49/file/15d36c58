@@ -1,4 +1,4 @@
-file:///var/www/html/hotel_project/routes/web.php {"mtime":1647723405610,"ctime":1647717784132,"size":637,"etag":"38f31n5j9kh","orphaned":false,"typeId":""}
+file:///var/www/html/hotel_project/routes/web.php {"mtime":1647723505683,"ctime":1647717784132,"size":638,"etag":"38f31r8j3ki","orphaned":false,"typeId":""}
 <?php
 
 use Illuminate\Support\Facades\Auth;
@@ -22,5 +22,3 @@ Route::get('/', function () {
 Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
-
-//try
