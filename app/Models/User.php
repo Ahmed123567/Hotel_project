@@ -8,6 +8,7 @@ use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Foundation\Auth\User as Authenticatable;
 use Illuminate\Notifications\Notifiable;
 use Laravel\Sanctum\HasApiTokens;
+use App\Models\Room;
 
 class User extends Authenticatable
 {
@@ -60,11 +61,13 @@ class User extends Authenticatable
         if ($data == 0) {
             return $data = 'customer';
         } elseif ($data == 1) {
-            return $data = 'resptionest';
-        } elseif ($data == 2) {
-            return $data = 'manager';
-        } elseif ($data == 3) {
             return $data = 'admin';
         };
     }
+
+    public function rooms()
+    {
+        return $this->hasMany(Room::class,'user_id');
+    }
+
 }

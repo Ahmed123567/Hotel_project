@@ -15,7 +15,7 @@
                     <img src="{{ asset('images/'. Auth::user()->image) }}" class="img-circle elevation-2" alt="User Image">
                 </div>
                 <div class="info">
-                    <a href="#" class="d-block">{{ Auth::user()->name }}</a>
+                    <a href="{{route('manage.users.show', ['user_id' => Auth::user()->id])}}" class="d-block">{{ Auth::user()->name }}</a>
                 </div>
             </div>
 

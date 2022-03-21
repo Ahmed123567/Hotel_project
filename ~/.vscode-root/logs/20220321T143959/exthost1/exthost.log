@@ -3662,3 +3662,193 @@
 [2022-03-21 22:23:20.010] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 669
 [2022-03-21 22:23:25.140] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 669
 [2022-03-21 22:23:30.255] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 669
+[2022-03-21 22:23:35.512] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 669
+[2022-03-21 22:23:40.705] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 669
+[2022-03-21 22:23:45.902] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 669
+[2022-03-21 22:23:51.107] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 669
+[2022-03-21 22:23:56.289] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 669
+[2022-03-21 22:24:01.476] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 669
+[2022-03-21 22:24:06.665] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 669
+[2022-03-21 22:24:11.851] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 669
+[2022-03-21 22:24:17.042] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 669
+[2022-03-21 22:24:22.227] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 669
+[2022-03-21 22:24:27.416] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 669
+[2022-03-21 22:24:32.601] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 669
+[2022-03-21 22:24:37.780] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 669
+[2022-03-21 22:24:42.917] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 669
+[2022-03-21 22:37:35.289] [exthost] [error] [zobo.php-intellisense] provider FAILED
+[2022-03-21 22:37:35.289] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103621)
+	at new s (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103570)
+	at new s (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:90384)
+	at asSymbolInformation (/root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:508:22)
+	at /root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:476:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:476:23)
+	at /root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/client.js:1111:70
+	at async f.provideDocumentSymbols (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:91158)
+[2022-03-21 22:37:35.974] [exthost] [error] [zobo.php-intellisense] provider FAILED
+[2022-03-21 22:37:35.975] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103621)
+	at new s (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103570)
+	at new s (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:90384)
+	at asSymbolInformation (/root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:508:22)
+	at /root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:476:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:476:23)
+	at /root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/client.js:1111:70
+	at async f.provideDocumentSymbols (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:91158)
+[2022-03-21 22:47:33.478] [exthost] [error] [zobo.php-intellisense] provider FAILED
+[2022-03-21 22:47:33.479] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103621)
+	at new s (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103570)
+	at new s (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:90384)
+	at asSymbolInformation (/root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:508:22)
+	at /root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:476:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:476:23)
+	at /root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/client.js:1111:70
+	at async f.provideDocumentSymbols (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:91158)
+[2022-03-21 22:47:33.916] [exthost] [error] [zobo.php-intellisense] provider FAILED
+[2022-03-21 22:47:33.916] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103621)
+	at new s (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103570)
+	at new s (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:90384)
+	at asSymbolInformation (/root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:508:22)
+	at /root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:476:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:476:23)
+	at /root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/client.js:1111:70
+	at async f.provideDocumentSymbols (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:91158)
+[2022-03-21 22:55:12.331] [exthost] [error] [zobo.php-intellisense] provider FAILED
+[2022-03-21 22:55:12.331] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103621)
+	at new s (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103570)
+	at new s (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:90384)
+	at asSymbolInformation (/root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:508:22)
+	at /root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:476:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:476:23)
+	at /root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/client.js:1111:70
+	at async f.provideDocumentSymbols (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:91158)
+[2022-03-21 23:29:23.619] [exthost] [error] [zobo.php-intellisense] provider FAILED
+[2022-03-21 23:29:23.633] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103621)
+	at new s (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103570)
+	at new s (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:90384)
+	at asSymbolInformation (/root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:508:22)
+	at /root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:476:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:476:23)
+	at /root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/client.js:1111:70
+	at async f.provideDocumentSymbols (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:91158)
+[2022-03-21 23:29:24.204] [exthost] [error] [zobo.php-intellisense] provider FAILED
+[2022-03-21 23:29:24.205] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103621)
+	at new s (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103570)
+	at new s (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:90384)
+	at asSymbolInformation (/root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:508:22)
+	at /root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:476:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:476:23)
+	at /root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/client.js:1111:70
+	at async f.provideDocumentSymbols (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:91158)
+[2022-03-21 23:51:17.080] [exthost] [error] [zobo.php-intellisense] provider FAILED
+[2022-03-21 23:51:17.080] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103621)
+	at new s (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103570)
+	at new s (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:90384)
+	at asSymbolInformation (/root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:508:22)
+	at /root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:476:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:476:23)
+	at /root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/client.js:1111:70
+	at async f.provideDocumentSymbols (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:91158)
+[2022-03-21 23:51:26.877] [exthost] [error] [zobo.php-intellisense] provider FAILED
+[2022-03-21 23:51:26.877] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103621)
+	at new s (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103570)
+	at new s (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:90384)
+	at asSymbolInformation (/root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:508:22)
+	at /root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:476:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:476:23)
+	at /root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/client.js:1111:70
+	at async f.provideDocumentSymbols (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:91158)
+[2022-03-21 23:53:41.179] [exthost] [error] [zobo.php-intellisense] provider FAILED
+[2022-03-21 23:53:41.192] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103621)
+	at new s (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103570)
+	at new s (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:90384)
+	at asSymbolInformation (/root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:508:22)
+	at /root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:476:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:476:23)
+	at /root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/client.js:1111:70
+	at async f.provideDocumentSymbols (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:91158)
+[2022-03-21 23:54:09.850] [exthost] [error] [zobo.php-intellisense] provider FAILED
+[2022-03-21 23:54:09.851] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103621)
+	at new s (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103570)
+	at new s (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:90384)
+	at asSymbolInformation (/root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:508:22)
+	at /root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:476:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:476:23)
+	at /root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/client.js:1111:70
+	at async f.provideDocumentSymbols (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:91158)
+[2022-03-21 23:54:32.937] [exthost] [error] [zobo.php-intellisense] provider FAILED
+[2022-03-21 23:54:32.937] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103621)
+	at new s (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103570)
+	at new s (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:90384)
+	at asSymbolInformation (/root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:508:22)
+	at /root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:476:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:476:23)
+	at /root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/client.js:1111:70
+	at async f.provideDocumentSymbols (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:91158)
+[2022-03-21 23:54:33.595] [exthost] [error] [zobo.php-intellisense] provider FAILED
+[2022-03-21 23:54:33.595] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103621)
+	at new s (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103570)
+	at new s (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:90384)
+	at asSymbolInformation (/root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:508:22)
+	at /root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:476:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:476:23)
+	at /root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/client.js:1111:70
+	at async f.provideDocumentSymbols (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:91158)
+[2022-03-21 23:54:36.344] [exthost] [error] [zobo.php-intellisense] provider FAILED
+[2022-03-21 23:54:36.344] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103621)
+	at new s (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103570)
+	at new s (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:90384)
+	at asSymbolInformation (/root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:508:22)
+	at /root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:476:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:476:23)
+	at /root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/client.js:1111:70
+	at async f.provideDocumentSymbols (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:91158)
+[2022-03-21 23:54:38.607] [exthost] [error] [zobo.php-intellisense] provider FAILED
+[2022-03-21 23:54:38.608] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103621)
+	at new s (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103570)
+	at new s (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:90384)
+	at asSymbolInformation (/root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:508:22)
+	at /root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:476:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:476:23)
+	at /root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/client.js:1111:70
+	at async f.provideDocumentSymbols (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:91158)
+[2022-03-21 23:54:40.658] [exthost] [error] [zobo.php-intellisense] provider FAILED
+[2022-03-21 23:54:40.658] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103621)
+	at new s (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103570)
+	at new s (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:90384)
+	at asSymbolInformation (/root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:508:22)
+	at /root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:476:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:476:23)
+	at /root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/client.js:1111:70
+	at async f.provideDocumentSymbols (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:91158)

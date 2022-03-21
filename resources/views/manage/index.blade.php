@@ -67,8 +67,8 @@
                             <thead>
                                 <tr>
                                     <th style="width: 10px">#</th>
-                                    <th>Task</th>
-                                    <th style="width: 153px" >Label</th>
+                                    <th>Name</th>
+                                    <th style="width: 153px" >Action</th>
                                 </tr>
                             </thead>
                             <tbody>
