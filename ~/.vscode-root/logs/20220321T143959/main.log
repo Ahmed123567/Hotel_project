@@ -1,0 +1,23 @@
+[2022-03-21 14:40:00.627] [main] [info] update#setState idle
+[2022-03-21 14:40:00.898] [main] [info] window#load: attempt to load window (id: 1)
+[2022-03-21 14:40:01.444] [main] [info] ExtensionHostStarterWorker created
+[2022-03-21 14:40:05.608] [main] [info] window#load: window reported ready (id: 1)
+[2022-03-21 14:40:05.855] [main] [info] Starting extension host with pid 2486 (fork() took 35 ms).
+[2022-03-21 14:40:05.859] [main] [info] ExtensionHostStarterWorker.start() took 45 ms.
+[2022-03-21 14:40:12.342] [main] [info] Enabling inspect port on extension host with pid 2486.
+[2022-03-21 14:40:30.629] [main] [info] update#setState checking for updates
+[2022-03-21 14:40:30.631] [main] [info] update#setState idle
+[2022-03-21 15:40:30.727] [main] [info] update#setState checking for updates
+[2022-03-21 15:40:30.764] [main] [info] update#setState idle
+[2022-03-21 16:40:30.765] [main] [info] update#setState checking for updates
+[2022-03-21 16:40:30.766] [main] [info] update#setState idle
+[2022-03-21 17:40:30.783] [main] [info] update#setState checking for updates
+[2022-03-21 17:40:30.880] [main] [info] update#setState idle
+[2022-03-21 18:40:30.863] [main] [info] update#setState checking for updates
+[2022-03-21 18:40:30.866] [main] [info] update#setState idle
+[2022-03-21 19:40:30.964] [main] [info] update#setState checking for updates
+[2022-03-21 19:40:30.996] [main] [info] update#setState idle
+[2022-03-21 20:40:31.033] [main] [info] update#setState checking for updates
+[2022-03-21 20:40:31.065] [main] [info] update#setState idle
+[2022-03-21 21:40:31.041] [main] [info] update#setState checking for updates
+[2022-03-21 21:40:31.077] [main] [info] update#setState idle

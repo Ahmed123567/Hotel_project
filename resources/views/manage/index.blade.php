@@ -1,4 +1,8 @@
-@extends('layouts.app')
+@extends('layouts.appAdmin')
+
+@section('title')
+    Dashboard
+@endsection
 
 @section('content')
     {{-- main body dashboard --}}
@@ -7,13 +11,13 @@
             <div class="col col-md-4">
                 <div class="small-box bg-info">
                     <div class="inner">
-                        <h3>150</h3>
+                        <h3>{{ $numberOfUsers }}</h3>
                         <p>Users</p>
                     </div>
                     <div class="icon">
                         <i class="fa-solid fa-user"></i>
                     </div>
-                    <a href="#" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
+                    <a href="{{route('manage.users.index')}}" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
                 </div>
 
             </div>
@@ -64,34 +68,29 @@
                                 <tr>
                                     <th style="width: 10px">#</th>
                                     <th>Task</th>
-                                    <th style="width: 40px">Label</th>
+                                    <th style="width: 153px" >Label</th>
                                 </tr>
                             </thead>
                             <tbody>
+                                @foreach ($latestUsers as $user)
                                 <tr>
-                                    <td>1.</td>
-                                    <td>Update software</td>
+                                    <td>{{$user->id}}</td>
+                                    <td>{{$user->name}}</td>
                                    
-                                    <td><span class="badge bg-danger">55%</span></td>
-                                </tr>
-                                <tr>
-                                    <td>2.</td>
-                                    <td>Clean database</td>
-                                   
-                                    <td><span class="badge bg-warning">70%</span></td>
-                                </tr>
-                                <tr>
-                                    <td>3.</td>
-                                    <td>Cron job running</td>
-                                   
-                                    <td><span class="badge bg-primary">30%</span></td>
-                                </tr>
-                                <tr>
-                                    <td>4.</td>
-                                    <td>Fix and squish bugs</td>
-                                    
-                                    <td><span class="badge bg-success">90%</span></td>
-                                </tr>
+                                    <td>
+                                        <a href="{{route('manage.users.show' ,['user_id' => $user->id ])}}">
+                                            <span class="badge bg-info">View</span>
+                                        </a>
+                                        <a href="{{route('manage.users.edit' ,['user_id' => $user->id ])}}">
+                                            <span class="badge bg-success">Edit</span>
+                                        </a>
+                                        <a href="{{route('manage.users.delete' ,['user_id' => $user->id ])}}" onclick="return confirm('Are You Sure?')">
+                                            <span class="badge bg-danger">Delete</span>
+                                        </a>
+                                    </td>
+                                </tr> 
+                                @endforeach
+                                
                             </tbody>
                         </table>
                     </div>
@@ -134,6 +133,11 @@
                                     <td>Cron job running</td>
                                     
                                     <td><span class="badge bg-primary">30%</span></td>
+                                </tr>
+                                <tr>
+                                    <td>4.</td>
+                                    <td>Fix and squish bugs</td>
+                                    <td><span class="badge bg-success">90%</span></td>
                                 </tr>
                                 <tr>
                                     <td>4.</td>

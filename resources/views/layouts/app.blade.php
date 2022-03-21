@@ -21,17 +21,17 @@
   
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/admin-lte@3.1/dist/css/adminlte.min.css">
     <link rel="stylesheet" href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
+   
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.11.5/css/jquery.dataTables.css">
+
+    @yield('css')
 
 </head>
-<body class="sidebar-mini layout-fixed layout-navbar-fixed">
+<body>
     <div id="app">
-    
-        <nav class="main-header navbar navbar-expand navbar-white navbar-light">
-            <ul class="navbar-nav"">
-                <li class="nav-item">
-                  <a class="nav-link pushmenu" data-widget="pushmenu" data-auto-collapse-size="768" href="#" role="button"><i class="fas fa-bars"></i></a>
-                </li>
-            </ul>
+   
+        <nav class="navbar navbar-expand shadow-sm  navbar-light">
+           
             <div class="container">
                 <a class="navbar-brand" href="{{ url('/') }}">
                     {{ config('app.name', 'Laravel') }}
@@ -86,65 +86,6 @@
             </div>
         </nav>
 
- {{-- ------------------------------------------------------------------------------------------------------- --}}
-    {{-- start side bar --}}
-
-        <aside class="main-sidebar sidebar-dark-primary elevation-4">
-            <!-- Brand Logo -->
-            <a href="index3.html" class="brand-link">
-    
-                <span class="brand-text font-weight-light">Hotel</span>
-            </a>
-    
-            <!-- Sidebar -->
-            <div class="sidebar">
-                <!-- Sidebar user panel (optional) -->
-                <div class="user-panel mt-3 pb-3 mb-3 d-flex">
-                    <div class="image">
-                        <img src="{{ asset('images/default.png') }}" class="img-circle elevation-2" alt="User Image">
-                    </div>
-                    <div class="info">
-                        <a href="#" class="d-block">Alexander Pierce</a>
-                    </div>
-                </div>
-    
-                <!-- Sidebar Menu -->
-                <nav class="mt-2">
-                    <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu">
-                        <!-- Add icons to the links using the .nav-icon class
-                           with font-awesome or any other icon font library -->
-                        
-                        <li class="nav-item">
-                            <a href="#" class="nav-link">
-                                <i class="nav-icon fas fa-th"></i>
-                                <p>
-                                  Users
-                                </p>
-                            </a>
-                        </li>
-                        <li class="nav-item">
-                            <a href="#" class="nav-link">
-                                <i class="nav-icon fas fa-th"></i>
-                                <p>
-                                    Rooms
-                                </p>
-                            </a>
-                        </li>
-                        <li class="nav-item">
-                            <a href="#" class="nav-link">
-                                <i class="nav-icon fas fa-th"></i>
-                                <p>
-                                    Floors 
-                                </p>
-                            </a>
-                        </li>
-                    </ul>
-                </nav>
-                <!-- /.sidebar-menu -->
-            </div>
-            <!-- /.sidebar -->
-        </aside>
-    
 
         <main class="py-4">
             @yield('content')
@@ -155,8 +96,10 @@
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"
      integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
      <script src="https://kit.fontawesome.com/94efbe3b18.js" crossorigin="anonymous"></script>
+     <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.11.5/js/jquery.dataTables.js"></script>
+     
     <script>
-        $(document).ready(function () {
+       $(document).ready(function () {
         $('.pushmenu').click(function () {
         
             // $('.sidebar-mini').t('sidebar-open');
@@ -166,5 +109,6 @@
       });
     });
     </script>
+    @stack('scripts')
 </body>
 </html>

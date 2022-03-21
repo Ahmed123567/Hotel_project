@@ -1,0 +1,195 @@
+[2022-03-21 14:40:08.683] [renderer1] [error] ["Error: Unknown or unsupported transport “disabled” for address “disabled:”"]
+[2022-03-21 14:40:08.684] [renderer1] [warning] Settings Sync: Accounts are not initialized
+[2022-03-21 14:40:12.755] [renderer1] [info] UNRESPONSIVE extension host: starting to profile NOW
+[2022-03-21 14:40:14.307] [renderer1] [warning] {}
+[2022-03-21 14:40:14.309] [renderer1] [error] [text file model] handleSaveError(0) - exit - resulted in a save error: Error: Unable to write file '/var/www/html/hotel_project/routes/web.php' (Error: File Modified Since) file:///var/www/html/hotel_project/routes/web.php
+[2022-03-21 14:40:17.534] [renderer1] [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+[2022-03-21 14:40:18.443] [renderer1] [warning] UNRESPONSIVE extension host: 'zobo.php-intellisense' took 76% of 4835.155ms, saved PROFILE here: 'file:///tmp/exthost-e1de8b.cpuprofile' [{"id":"bmewburn.vscode-intelephense-client","total":17416,"percentage":0},{"id":"codingyu.laravel-goto-view","total":345,"percentage":0},{"id":"CoenraadS.bracket-pair-colorizer","total":600996,"percentage":12},{"id":"gc","total":8683,"percentage":0},{"id":"program","total":82800,"percentage":2},{"id":"RobbOwen.synthwave-vscode","total":72827,"percentage":2},{"id":"self","total":363108,"percentage":8},{"id":"vscode.debug-auto-launch","total":3019,"percentage":0},{"id":"vscode.git-base","total":2718,"percentage":0},{"id":"vscode.ipynb","total":3490,"percentage":0},{"id":"vscode.npm","total":9644,"percentage":0},{"id":"vscode.php-language-features","total":15893,"percentage":0},{"id":"zobo.php-intellisense","total":3653429,"percentage":76}]
+[2022-03-21 14:40:21.114] [renderer1] [info] UNRESPONSIVE extension host: starting to profile NOW
+[2022-03-21 14:40:24.259] [renderer1] [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+[2022-03-21 14:40:28.127] [renderer1] [error] [text file model] handleSaveError(0) - exit - resulted in a save error: Error: Unable to write file '/var/www/html/hotel_project/routes/web.php' (Error: File Modified Since) file:///var/www/html/hotel_project/routes/web.php
+[2022-03-21 14:40:28.705] [renderer1] [warning] UNRESPONSIVE extension host: 'shufo.vscode-blade-formatter' took 99% of 3279.237ms, saved PROFILE here: 'file:///tmp/exthost-631b58.cpuprofile' [{"id":"gc","total":7972,"percentage":0},{"id":"program","total":171,"percentage":0},{"id":"self","total":12638,"percentage":0},{"id":"shufo.vscode-blade-formatter","total":3258099,"percentage":99},{"id":"vscode.npm","total":169,"percentage":0}]
+[2022-03-21 14:44:09.584] [renderer1] [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+[2022-03-21 14:44:09.753] [renderer1] [info] UNRESPONSIVE extension host: starting to profile NOW
+[2022-03-21 14:49:27.542] [renderer1] [error] [text file model] handleSaveError(0) - exit - resulted in a save error: Error: Unable to write file '/var/www/html/hotel_project/routes/web.php' (Error: File Modified Since) file:///var/www/html/hotel_project/routes/web.php
+[2022-03-21 14:50:04.839] [renderer1] [error] [text file model] handleSaveError(0) - exit - resulted in a save error: Error: Unable to write file '/var/www/html/hotel_project/routes/web.php' (Error: File Modified Since) file:///var/www/html/hotel_project/routes/web.php
+[2022-03-21 14:58:50.456] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103621)
+	at new s (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103570)
+	at new s (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:90384)
+	at asSymbolInformation (/root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:508:22)
+	at /root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:476:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:476:23)
+	at /root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/client.js:1111:70
+	at async f.provideDocumentSymbols (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:91158)
+[2022-03-21 17:26:15.873] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103621)
+	at new s (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103570)
+	at new s (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:90384)
+	at asSymbolInformation (/root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:508:22)
+	at /root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:476:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:476:23)
+	at /root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/client.js:1111:70
+	at async f.provideDocumentSymbols (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:91158)
+[2022-03-21 17:39:17.508] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103621)
+	at new s (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103570)
+	at new s (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:90384)
+	at asSymbolInformation (/root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:508:22)
+	at /root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:476:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:476:23)
+	at /root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/client.js:1111:70
+	at async f.provideDocumentSymbols (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:91158)
+[2022-03-21 18:07:13.067] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103621)
+	at new s (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103570)
+	at new s (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:90384)
+	at asSymbolInformation (/root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:508:22)
+	at /root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:476:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:476:23)
+	at /root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/client.js:1111:70
+	at async f.provideDocumentSymbols (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:91158)
+[2022-03-21 20:12:49.703] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103621)
+	at new s (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103570)
+	at new s (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:90384)
+	at asSymbolInformation (/root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:508:22)
+	at /root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:476:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:476:23)
+	at /root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/client.js:1111:70
+	at async f.provideDocumentSymbols (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:91158)
+[2022-03-21 20:50:45.507] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103621)
+	at new s (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103570)
+	at new s (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:90384)
+	at asSymbolInformation (/root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:508:22)
+	at /root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:476:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:476:23)
+	at /root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/client.js:1111:70
+	at async f.provideDocumentSymbols (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:91158)
+[2022-03-21 20:50:46.812] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103621)
+	at new s (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103570)
+	at new s (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:90384)
+	at asSymbolInformation (/root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:508:22)
+	at /root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:476:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:476:23)
+	at /root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/client.js:1111:70
+	at async f.provideDocumentSymbols (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:91158)
+[2022-03-21 21:44:01.114] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103621)
+	at new s (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103570)
+	at new s (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:90384)
+	at asSymbolInformation (/root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:508:22)
+	at /root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:476:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:476:23)
+	at /root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/client.js:1111:70
+	at async f.provideDocumentSymbols (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:91158)
+[2022-03-21 21:48:32.018] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103621)
+	at new s (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103570)
+	at new s (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:90384)
+	at asSymbolInformation (/root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:508:22)
+	at /root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:476:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:476:23)
+	at /root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/client.js:1111:70
+	at async f.provideDocumentSymbols (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:91158)
+[2022-03-21 21:52:58.584] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103621)
+	at new s (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103570)
+	at new s (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:90384)
+	at asSymbolInformation (/root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:508:22)
+	at /root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:476:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:476:23)
+	at /root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/client.js:1111:70
+	at async f.provideDocumentSymbols (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:91158)
+[2022-03-21 21:53:01.041] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103621)
+	at new s (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103570)
+	at new s (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:90384)
+	at asSymbolInformation (/root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:508:22)
+	at /root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:476:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:476:23)
+	at /root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/client.js:1111:70
+	at async f.provideDocumentSymbols (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:91158)
+[2022-03-21 21:53:53.571] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103621)
+	at new s (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103570)
+	at new s (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:90384)
+	at asSymbolInformation (/root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:508:22)
+	at /root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:476:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:476:23)
+	at /root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/client.js:1111:70
+	at async f.provideDocumentSymbols (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:91158)
+[2022-03-21 21:53:56.844] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103621)
+	at new s (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103570)
+	at new s (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:90384)
+	at asSymbolInformation (/root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:508:22)
+	at /root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:476:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:476:23)
+	at /root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/client.js:1111:70
+	at async f.provideDocumentSymbols (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:91158)
+[2022-03-21 21:54:00.675] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103621)
+	at new s (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103570)
+	at new s (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:90384)
+	at asSymbolInformation (/root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:508:22)
+	at /root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:476:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:476:23)
+	at /root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/client.js:1111:70
+	at async f.provideDocumentSymbols (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:91158)
+[2022-03-21 21:56:31.762] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103621)
+	at new s (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103570)
+	at new s (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:90384)
+	at asSymbolInformation (/root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:508:22)
+	at /root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:476:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:476:23)
+	at /root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/client.js:1111:70
+	at async f.provideDocumentSymbols (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:91158)
+[2022-03-21 21:56:33.038] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103621)
+	at new s (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103570)
+	at new s (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:90384)
+	at asSymbolInformation (/root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:508:22)
+	at /root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:476:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:476:23)
+	at /root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/client.js:1111:70
+	at async f.provideDocumentSymbols (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:91158)
+[2022-03-21 21:57:03.113] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103621)
+	at new s (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103570)
+	at new s (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:90384)
+	at asSymbolInformation (/root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:508:22)
+	at /root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:476:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:476:23)
+	at /root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/client.js:1111:70
+	at async f.provideDocumentSymbols (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:91158)
+[2022-03-21 21:57:09.950] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103621)
+	at new s (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:103570)
+	at new s (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:90384)
+	at asSymbolInformation (/root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:508:22)
+	at /root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:476:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/protocolConverter.js:476:23)
+	at /root/.vscode/extensions/zobo.php-intellisense-1.0.5/node_modules/vscode-languageclient/lib/common/client.js:1111:70
+	at async f.provideDocumentSymbols (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:91158)
