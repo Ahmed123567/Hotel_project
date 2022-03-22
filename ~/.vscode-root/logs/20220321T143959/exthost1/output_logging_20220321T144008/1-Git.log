@@ -20915,3 +20915,8 @@
 [2022-03-21T22:09:36.871Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [15ms]
 [2022-03-21T22:09:36.872Z] > git remote --verbose [2ms]
 [2022-03-21T22:09:36.889Z] > git config --get commit.template [3ms]
+[2022-03-21T22:13:10.114Z] > git symbolic-ref --short HEAD [4ms]
+[2022-03-21T22:13:10.135Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master [3ms]
+[2022-03-21T22:13:10.164Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [15ms]
+[2022-03-21T22:13:10.165Z] > git remote --verbose [3ms]
+[2022-03-21T22:13:10.207Z] > git config --get commit.template [2ms]

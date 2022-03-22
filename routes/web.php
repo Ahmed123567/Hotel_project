@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\userInetrface\MainPageController;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Route;
 
@@ -14,9 +15,7 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return 'welcome';
-});
+Route::get('/', [MainPageController::class, 'index'])->name('main.index');
 
 Auth::routes();
 

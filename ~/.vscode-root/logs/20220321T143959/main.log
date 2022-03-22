@@ -25,3 +25,4 @@
 [2022-03-21 22:40:31.080] [main] [info] update#setState idle
 [2022-03-21 23:40:31.125] [main] [info] update#setState checking for updates
 [2022-03-21 23:40:31.246] [main] [info] update#setState idle
+[2022-03-22 00:16:01.514] [main] [error] CodeWindow: renderer process crashed (reason: killed, code: 15)

@@ -13,20 +13,15 @@ class ManageRoomController extends Controller
     public function index(Request $request){
 
         if ($request->ajax()) {
-            $data = Room::latest()->get();
-
-            foreach($data as $item){
-               
-            }
-            
+            $data = Room::latest()->get();            
             return DataTables::of($data)
                 ->addIndexColumn()
-                ->addColumn('owner', function($item){
+                ->addColumn('owner', function($row){
                     
-                    if($item->user_id){
-                        $owner = $item->user->name;
+                    if($row->user_id){
+                        $owner = $row->user->name;
                     }else{
-                        $owner = "Empty Room";
+                        $owner = "Avillable";
                     }
                     
                     return $owner;
@@ -36,8 +31,16 @@ class ManageRoomController extends Controller
                     $actionBtn = "
                     <a href='http://127.0.0.1:8000/manage/rooms/edit/$row->id'
                      class='edit btn btn-success btn-sm'>Edit</a> 
-                     "
+                     ";
                      
+                     if($row->user_id){
+                        $actionBtn = $actionBtn . "
+                        <a href='http://127.0.0.1:8000/manage/rooms/make-avillable/$row->id'
+                        onclick='return confirm( \"Are you sure?\" )'  class='edit btn btn-danger btn-sm'>Make Avillable</a> 
+                        ";
+                     }  
+
+
                      ;
                     return $actionBtn;
                 })
@@ -48,6 +51,34 @@ class ManageRoomController extends Controller
         return view('manage.room.index');
     }
 
-    
+    public function avillable($room_id){
+
+        Room::find($room_id)->update([
+            'user_id' => null
+        ]);
+
+        return redirect()->back();
+    }
+
+
+    public function edit($room_id){
+       
+        $room = Room::find($room_id);
+        $users = User::all();
+
+        return view('manage.room.edit' , ['room' => $room, 'users' => $users ]);
+    }
+
+    public function update(Request $request){
+
+        $roomData = $request->all(); 
+
+        Room::find($roomData['room_id'])->update([
+            'user_id' => $roomData['owner'],
+            'capacity' => $roomData['capacity']
+        ]);
+
+        return redirect()->route('manage.rooms.index');
+    }
 
 }
