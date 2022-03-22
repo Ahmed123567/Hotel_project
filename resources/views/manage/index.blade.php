@@ -24,7 +24,7 @@
             <div class="col col-md-4">
                 <div class="small-box bg-success">
                     <div class="inner">
-                        <h3>150</h3>
+                        <h3>{{$numberOfRooms}}</h3>
                         <p>Rooms</p>
                     </div>
                     <div class="icon">
@@ -103,7 +103,7 @@
             <div class="col col-6">
                 <div class="card">
                     <div class="card-header">
-                        <h3 class="card-title">Latest Avilable Rooms </h3>
+                        <h3 class="card-title">Latest Updated Rooms </h3>
                     </div>
 
                     <div class="card-body p-0">
@@ -111,39 +111,28 @@
                             <thead>
                                 <tr>
                                     <th style="width: 10px">#</th>
-                                    <th>Task</th>
-                                    <th style="width: 40px">Label</th>
+                                    <th>Owner</th>
+                                    <th style="width: 160px">Action</th>
                                 </tr>
                             </thead>
                             <tbody>
+                              @foreach($latestUpdatedRooms as $room)
                                 <tr>
-                                    <td>1.</td>
-                                    <td>Update software</td>
-                                   
-                                    <td><span class="badge bg-danger">55%</span></td>
+                                    <td>{{$room->id}}</td>
+                                    @if (!is_null($room->user))
+                                        <td>{{$room->user->name}}</td>
+                                    @else
+                                        <td>Avilable</td>
+                                    @endif
+                                    <td>
+                                        <a href='{{route('manage.rooms.edit' ,['room_id' => $room->id])}}' class='badge bg-success'>Edit</a> 
+                                        <a href='{{route('manage.rooms.avillable' ,['room_id' => $room->id])}}'
+                                            onclick='return confirm( \"Are you sure?\" )'  class='badge bg-danger'>Make Avillable</a> 
+                                    </td>
                                 </tr>
-                                <tr>
-                                    <td>2.</td>
-                                    <td>Clean database</td>
-                                    
-                                    <td><span class="badge bg-warning">70%</span></td>
-                                </tr>
-                                <tr>
-                                    <td>3.</td>
-                                    <td>Cron job running</td>
-                                    
-                                    <td><span class="badge bg-primary">30%</span></td>
-                                </tr>
-                                <tr>
-                                    <td>4.</td>
-                                    <td>Fix and squish bugs</td>
-                                    <td><span class="badge bg-success">90%</span></td>
-                                </tr>
-                                <tr>
-                                    <td>4.</td>
-                                    <td>Fix and squish bugs</td>
-                                    <td><span class="badge bg-success">90%</span></td>
-                                </tr>
+                              @endforeach
+
+
                             </tbody>
                         </table>
                     </div>

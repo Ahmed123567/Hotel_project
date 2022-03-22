@@ -19,6 +19,7 @@
                 <th>Owner</th>
                 <th>Floor</th>
                 <th>Capacity</th>
+                <th>price</th>
                 <th style="width: 150px">Action</th>
             </tr>
         </thead>
@@ -44,6 +45,7 @@ $(function () {
             {data: 'owner', name: 'owner'},
             {data: 'floor_id', name: 'floor_id'},
             {data: 'capacity', name: 'capacity' },
+            {data: 'price', name: 'price'},
             {
                 data: 'action', 
                 name: 'action', 

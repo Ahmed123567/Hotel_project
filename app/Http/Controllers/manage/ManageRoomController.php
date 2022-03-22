@@ -27,6 +27,19 @@ class ManageRoomController extends Controller
                     return $owner;
                 })
                 ->rawColumns(['owner'])
+                ->addColumn('price', function($row){
+                    
+                    if($row->capacity == 'Two Persons'){
+                        $price = '$150.0';
+                    }elseif($row->capacity == 'Three Persons'){
+                        $price = "$200.0";
+                    }else{
+                        $price = "$300.0";
+                    }
+                    
+                    return $price;
+                })
+                ->rawColumns(['owner'])
                 ->addColumn('action', function($row){
                     $actionBtn = "
                     <a href='http://127.0.0.1:8000/manage/rooms/edit/$row->id'
@@ -65,6 +78,8 @@ class ManageRoomController extends Controller
        
         $room = Room::find($room_id);
         $users = User::all();
+
+
 
         return view('manage.room.edit' , ['room' => $room, 'users' => $users ]);
     }

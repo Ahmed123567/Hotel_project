@@ -41,10 +41,6 @@ Route::group(['prefix'=> 'rooms'], function(){
 
     Route::get('edit/{room_id}', [ManageRoomController::class, 'edit'])->name('manage.rooms.edit');
 
-    Route::get('create' , [ManageRoomController::class, 'create'])->name('manage.rooms.create');
-
-    Route::get('{room_id}', [ManageRoomController::class , 'show'])->name('manage.rooms.show');
-
     Route::get('make-avillable/{room_id}', [ManageRoomController::class, 'avillable'])->name('manage.rooms.avillable');
 
     Route::post('store', [ManageRoomController::class, 'store'])->name('manage.rooms.store');

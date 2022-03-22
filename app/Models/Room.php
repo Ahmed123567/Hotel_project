@@ -13,7 +13,8 @@ class Room extends Model
     protected $fillable = [
         'user_id',
         'floor_id',
-        'capacity'
+        'capacity',
+        'updated_at'
     ];
 
     /**
@@ -30,9 +31,9 @@ class Room extends Model
     {
 
         if ($data == 2) {
-            return $data = 'Two Presons';
+            return $data = 'Two Persons';
         } elseif ($data == 3) {
-            return $data = 'Three Presons';
+            return $data = 'Three Persons';
         }elseif ($data == 5){
             return $data = 'Five Persons';
         }
@@ -57,7 +58,6 @@ class Room extends Model
 
         return $this->belongsTo(User::class, 'user_id');
     }
-
 
 
 }

@@ -46,9 +46,24 @@
                     <div class="form-group">
                         <label for="Email">Room Capacity</label>
                         <select class="custom-select rounded-0" id="exampleSelectRounded0" name="capacity">
-                            <option value="2">Two persons</option>
-                            <option value="3">Three persons</option>
-                            <option value="5">Five persons</option>
+                            @if ($room->capacity == 'Two Persons')
+                                <option value="2" selected>Two persons</option>
+                            @else
+                                <option value="2">Two persons</option>
+                            @endif
+
+                            @if ($room->capacity == 'Three Persons')
+                                <option value="3" selected>Three persons</option>
+                            @else
+                                <option value="3">Three persons</option>
+                            @endif
+
+                            @if ($room->capacity === 'Five Persons')
+                                <option value="5" selected>Five persons</option>
+                            @else
+                                <option value="5">Five persons</option>
+                            @endif
+                            
                         </select>
                         @error('capacity')
                             <div class="error" style="color: red">{{ $message }}</div>
