@@ -1,0 +1,34 @@
+[2022-03-24 22:40:02.631] [exthost] [info] Extension host with pid 10308 started
+[2022-03-24 22:40:02.631] [exthost] [info] Skipping acquiring lock for /var/www/html/hotel_project/~/.vscode-root/User/workspaceStorage/11e8408c35694307231992d9f44b3129.
+[2022-03-24 22:40:02.856] [exthost] [info] ExtensionService#_doActivateExtension vscode.php-language-features, startup: false, activationEvent: 'onLanguage:php'
+[2022-03-24 22:40:03.156] [exthost] [info] ExtensionService#_doActivateExtension bmewburn.vscode-intelephense-client, startup: false, activationEvent: 'onLanguage:php'
+[2022-03-24 22:40:03.305] [exthost] [info] ExtensionService#_doActivateExtension codingyu.laravel-goto-view, startup: false, activationEvent: 'onLanguage:php'
+[2022-03-24 22:40:03.681] [exthost] [info] ExtensionService#_doActivateExtension zobo.php-intellisense, startup: false, activationEvent: 'onLanguage:php'
+[2022-03-24 22:40:11.491] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-03-24 22:40:11.534] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-03-24 22:40:11.551] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-03-24 22:40:11.590] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer, startup: true, activationEvent: '*'
+[2022-03-24 22:40:11.694] [exthost] [info] ExtensionService#_doActivateExtension RobbOwen.synthwave-vscode, startup: true, activationEvent: '*'
+[2022-03-24 22:40:11.788] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2022-03-24 22:40:11.872] [exthost] [info] Not activating extension 'zobo.php-intellisense': Timed out while searching for 'workspaceContains' pattern **/*.php
+[2022-03-24 22:40:12.904] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-03-24 22:40:13.311] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-03-24 22:40:13.395] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-24 22:40:13.721] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-24 22:40:14.483] [exthost] [info] Eager extensions activated
+[2022-03-24 22:41:52.404] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-03-24 22:41:52.434] [exthost] [error] An error occurred when deactivating the subscriptions for extension 'bmewburn.vscode-intelephense-client':
+[2022-03-24 22:41:52.435] [exthost] [error] TypeError: Cannot read private member from an object whose class did not declare it
+	at Pe (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:7024)
+	at Object.dispose (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:90801)
+	at g (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:8:12307)
+	at d._deactivate (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:11931)
+	at /snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:10226
+	at Array.map (<anonymous>)
+	at deactivateAll (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:10214)
+	at _.terminate (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:880)
+	at c (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:36243)
+	at Socket.<anonymous> (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:33938)
+	at Socket.emit (events.js:327:22)
+	at Pipe.<anonymous> (net.js:673:12)
+[2022-03-24 22:41:52.444] [exthost] [info] Extension host with pid 10308 exiting with code 0

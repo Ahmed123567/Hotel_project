@@ -1,0 +1,9 @@
+[2022-03-24 22:40:04.584] [sharedprocess] [info] Starting worker process with pid 10359 (type: fileWatcher, window: 1).
+[2022-03-24 22:40:09.844] [sharedprocess] [info] Deleted from disk shufo.vscode-blade-formatter /root/.vscode/extensions/shufo.vscode-blade-formatter-0.13.11
+[2022-03-24 22:40:11.614] [sharedprocess] [info] Getting Manifest... zobo.php-intellisense
+[2022-03-24 22:40:13.051] [sharedprocess] [info] Installing extension: zobo.php-intellisense
+[2022-03-24 22:40:36.353] [sharedprocess] [info] Downloaded extension: zobo.php-intellisense /var/www/html/hotel_project/~/.vscode-root/CachedExtensionVSIXs/zobo.php-intellisense-1.0.6
+[2022-03-24 22:40:38.697] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.78107cc3-e1f2-4470-a095-d5c8fb0e19ab: zobo.php-intellisense
+[2022-03-24 22:40:39.090] [sharedprocess] [info] Renamed to /root/.vscode/extensions/zobo.php-intellisense-1.0.6
+[2022-03-24 22:40:39.094] [sharedprocess] [info] Extracting completed. zobo.php-intellisense
+[2022-03-24 22:40:39.353] [sharedprocess] [info] Extension installed successfully: zobo.php-intellisense

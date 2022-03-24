@@ -1,2 +1,3 @@
-2022/03/19-21:35:41.107 9a79 Creating DB /var/www/html/hotel_project/~/.vscode-root/Local Storage/leveldb since it was missing.
-2022/03/19-21:35:41.454 9a79 Reusing MANIFEST /var/www/html/hotel_project/~/.vscode-root/Local Storage/leveldb/MANIFEST-000001
+2022/03/24-22:42:22.853 2a1a Reusing MANIFEST /var/www/html/hotel_project/~/.vscode-root/Local Storage/leveldb/MANIFEST-000001
+2022/03/24-22:42:22.853 2a1a Recovering log #3
+2022/03/24-22:42:22.913 2a1a Reusing old log /var/www/html/hotel_project/~/.vscode-root/Local Storage/leveldb/000003.log 

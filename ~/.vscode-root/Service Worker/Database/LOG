@@ -1,2 +1,3 @@
-2022/03/19-21:35:46.320 9a78 Creating DB /var/www/html/hotel_project/~/.vscode-root/Service Worker/Database since it was missing.
-2022/03/19-21:35:46.505 9a78 Reusing MANIFEST /var/www/html/hotel_project/~/.vscode-root/Service Worker/Database/MANIFEST-000001
+2022/03/24-22:42:22.886 2a35 Reusing MANIFEST /var/www/html/hotel_project/~/.vscode-root/Service Worker/Database/MANIFEST-000001
+2022/03/24-22:42:22.886 2a35 Recovering log #3
+2022/03/24-22:42:22.952 2a35 Reusing old log /var/www/html/hotel_project/~/.vscode-root/Service Worker/Database/000003.log 

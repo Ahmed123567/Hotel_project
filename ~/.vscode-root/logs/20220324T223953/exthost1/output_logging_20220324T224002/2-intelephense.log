@@ -1,0 +1,10 @@
+[Info  - 10:40:14 PM] Initialising intelephense 1.8.2
+[Info  - 10:40:14 PM] Reading state from /var/www/html/hotel_project/~/.vscode-root/User/workspaceStorage/11e8408c35694307231992d9f44b3129/bmewburn.vscode-intelephense-client/4534594a.
+[Info  - 10:40:17 PM] Initialised in 3072 ms
+[Info  - 10:40:17 PM] Searching file:///root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.8.2/node_modules/intelephense/lib/stub for files to index.
+[Info  - 10:40:17 PM] Searching file:///var/www/html/hotel_project for files to index.
+[Warn  - 10:40:18 PM] file:///var/www/html/hotel_project/vendor/fakerphp/faker/src/Faker/Provider/nl_BE/Text.php is over the maximum file size of 1000000 bytes.
+[Info  - 10:40:18 PM] Indexing started.
+[Info  - 10:40:44 PM] Indexing ended. 1447 files indexed in 25s.
+[Info  - 10:40:44 PM] Writing state to /var/www/html/hotel_project/~/.vscode-root/User/workspaceStorage/11e8408c35694307231992d9f44b3129/bmewburn.vscode-intelephense-client/4534594a.
+[Info  - 10:40:47 PM] Wrote state in 2.7s.
