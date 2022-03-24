@@ -1,2 +1,3 @@
-2022/03/24-22:41:53.673 2824 Creating DB /var/www/html/hotel_project/~/.vscode-root/Session Storage since it was missing.
-2022/03/24-22:41:53.964 2824 Reusing MANIFEST /var/www/html/hotel_project/~/.vscode-root/Session Storage/MANIFEST-000001
+2022/03/24-22:46:32.659 2a34 Reusing MANIFEST /var/www/html/hotel_project/~/.vscode-root/Session Storage/MANIFEST-000001
+2022/03/24-22:46:32.659 2a34 Recovering log #3
+2022/03/24-22:46:32.659 2a34 Reusing old log /var/www/html/hotel_project/~/.vscode-root/Session Storage/000003.log 

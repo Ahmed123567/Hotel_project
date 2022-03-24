@@ -15,3 +15,19 @@
 [2022-03-24 22:42:32.360] [exthost] [info] Eager extensions activated
 [2022-03-24 22:42:32.440] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
 [2022-03-24 22:42:32.484] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-24 22:46:32.652] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-03-24 22:46:32.693] [exthost] [error] An error occurred when deactivating the subscriptions for extension 'bmewburn.vscode-intelephense-client':
+[2022-03-24 22:46:32.693] [exthost] [error] TypeError: Cannot read private member from an object whose class did not declare it
+	at Pe (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:7024)
+	at Object.dispose (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:90801)
+	at g (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:8:12307)
+	at d._deactivate (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:11931)
+	at /snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:10226
+	at Array.map (<anonymous>)
+	at deactivateAll (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:10214)
+	at _.terminate (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:880)
+	at c (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:36243)
+	at Socket.<anonymous> (/snap/code/91/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:33938)
+	at Socket.emit (events.js:327:22)
+	at Pipe.<anonymous> (net.js:673:12)
+[2022-03-24 22:46:32.708] [exthost] [info] Extension host with pid 10844 exiting with code 0

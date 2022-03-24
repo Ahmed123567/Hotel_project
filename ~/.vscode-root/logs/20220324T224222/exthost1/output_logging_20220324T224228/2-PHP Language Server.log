@@ -2236,3 +2236,763 @@ Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/P
 Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/IWriter.php
 Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Pdf.php
 Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Html.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xls.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Pdf/Mpdf.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Pdf/Tcpdf.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Pdf/Dompdf.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Ods.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Csv.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/RelsRibbon.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/DefinedNames.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/StringTable.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/Chart.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/Style.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/DocProps.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/ContentTypes.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/Theme.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/Rels.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/RelsVBA.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/Comments.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/WriterPart.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/Workbook.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/Drawing.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/Worksheet.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/Xlfn.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/DefinedName.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/HashTable.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Worksheet/Iterator.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Worksheet/Protection.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Worksheet/ColumnDimension.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Worksheet/Drawing/Shadow.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Worksheet/RowIterator.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Worksheet/MemoryDrawing.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Worksheet/CellIterator.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Worksheet/ColumnIterator.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Worksheet/Column.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Worksheet/RowCellIterator.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Worksheet/AutoFilter/Column/Rule.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Worksheet/AutoFilter/Column.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Worksheet/PageSetup.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Worksheet/PageMargins.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Worksheet/AutoFilter.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Worksheet/Row.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Worksheet/Drawing.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Worksheet/Worksheet.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Worksheet/BaseDrawing.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Worksheet/RowDimension.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Worksheet/SheetView.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Worksheet/Dimension.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Worksheet/HeaderFooter.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Worksheet/HeaderFooterDrawing.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Worksheet/ColumnCellIterator.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/NumberFormat.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/Alignment.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/Fill.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/Border.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/Protection.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/Style.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/Conditional.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/Color.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/NumberFormat/DateFormatter.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/NumberFormat/BaseFormatter.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/NumberFormat/NumberFormatter.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/NumberFormat/FractionFormatter.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/NumberFormat/Formatter.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/NumberFormat/PercentageFormatter.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/Borders.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/ConditionalFormatting/ConditionalDataBarExtension.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/ConditionalFormatting/CellMatcher.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/ConditionalFormatting/Wizard/DateValue.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/ConditionalFormatting/Wizard/WizardAbstract.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/ConditionalFormatting/Wizard/Duplicates.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/ConditionalFormatting/Wizard/WizardInterface.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/ConditionalFormatting/Wizard/Errors.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/ConditionalFormatting/Wizard/TextValue.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/ConditionalFormatting/Wizard/CellValue.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/ConditionalFormatting/Wizard/Blanks.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/ConditionalFormatting/Wizard/Expression.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/ConditionalFormatting/CellStyleAssessor.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/ConditionalFormatting/ConditionalFormattingRuleExtension.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/ConditionalFormatting/StyleMerger.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/ConditionalFormatting/Wizard.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/ConditionalFormatting/ConditionalFormatValueObject.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/ConditionalFormatting/ConditionalDataBar.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/Supervisor.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/Font.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Chart/Chart.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Chart/DataSeriesValues.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Chart/GridLines.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Chart/Exception.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Chart/Properties.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Chart/PlotArea.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Chart/DataSeries.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Chart/Renderer/JpGraph.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Chart/Renderer/IRenderer.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Chart/Axis.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Chart/Legend.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Chart/Layout.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Chart/Title.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/.php-cs-fixer.dist.php
+Parsing file:///var/www/html/hotel_project/vendor/phpoffice/phpspreadsheet/phpstan-conditional.php
+[Warn  - 10:45:07 PM] Could not compute cache key for phpoffice/phpspreadsheet
+[Info  - 10:45:07 PM] Restored laravel/tinker:2.7.1 from cache
+[Info  - 10:45:08 PM] Restored laravel/serializable-closure:1.1.1 from cache
+[Info  - 10:45:08 PM] Restored laravel/framework:8.83.5 from cache
+[Info  - 10:45:08 PM] Restored laravel/ui:3.4.5 from cache
+[Info  - 10:45:08 PM] Restored laravel/sail:1.13.7 from cache
+[Info  - 10:45:08 PM] Restored laravel/sanctum:2.14.2 from cache
+[Info  - 10:45:08 PM] Indexing yajra/laravel-datatables-html for definitions and static references
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/ColumnDefinition.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Button.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/HasEditor.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Options/HasColumns.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Options/Plugins/RowGroup.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Options/Plugins/Select.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Options/Plugins/KeyTable.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Options/Plugins/ColReorder.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Options/Plugins/FixedHeader.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Options/Plugins/FixedColumns.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Options/Plugins/Scroller.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Options/Plugins/AutoFill.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Options/Plugins/SearchPanes.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Options/Plugins/Responsive.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Options/Plugins/RowReorder.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Options/Plugins/Buttons.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Options/HasData.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Options/HasCallbacks.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Options/HasInternationalisation.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Options/Languages/Select.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Options/Languages/AutoFill.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Options/Languages/Paginate.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Options/Languages/Aria.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Options/HasFeatures.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/HasTable.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/SearchPane.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Columns/Action.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Columns/Index.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Columns/Checkbox.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/HasAuthorizations.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Editor/Fields/Number.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Editor/Fields/Image.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Editor/Fields/Select.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Editor/Fields/Text.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Editor/Fields/Time.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Editor/Fields/Hidden.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Editor/Fields/Options.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Editor/Fields/DateTime.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Editor/Fields/Radio.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Editor/Fields/Field.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Editor/Fields/TextArea.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Editor/Fields/ReadOnly.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Editor/Fields/Date.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Editor/Fields/Password.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Editor/Fields/BelongsTo.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Editor/Fields/Boolean.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Editor/Fields/File.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Editor/Fields/Select2.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Editor/Fields/Checkbox.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Editor/Editor.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Editor/FormOptions.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Editor/HasEvents.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Builder.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Column.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/ColumnDefinitions.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/HasOptions.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Parameters.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/resources/views/editor.blade.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/resources/views/script.blade.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/resources/views/function.blade.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/resources/views/options.blade.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/resources/config/config.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/HtmlServiceProvider.php
+[Info  - 10:45:11 PM] Indexing yajra/laravel-datatables-html for dynamic references
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/ColumnDefinition.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Button.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/HasEditor.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Options/HasColumns.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Options/Plugins/RowGroup.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Options/Plugins/Select.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Options/Plugins/KeyTable.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Options/Plugins/ColReorder.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Options/Plugins/FixedHeader.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Options/Plugins/FixedColumns.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Options/Plugins/Scroller.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Options/Plugins/AutoFill.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Options/Plugins/SearchPanes.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Options/Plugins/Responsive.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Options/Plugins/RowReorder.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Options/Plugins/Buttons.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Options/HasData.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Options/HasCallbacks.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Options/HasInternationalisation.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Options/Languages/Select.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Options/Languages/AutoFill.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Options/Languages/Paginate.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Options/Languages/Aria.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Options/HasFeatures.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/HasTable.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/SearchPane.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Columns/Action.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Columns/Index.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Columns/Checkbox.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/HasAuthorizations.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Editor/Fields/Number.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Editor/Fields/Image.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Editor/Fields/Select.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Editor/Fields/Text.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Editor/Fields/Time.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Editor/Fields/Hidden.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Editor/Fields/Options.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Editor/Fields/DateTime.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Editor/Fields/Radio.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Editor/Fields/Field.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Editor/Fields/TextArea.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Editor/Fields/ReadOnly.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Editor/Fields/Date.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Editor/Fields/Password.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Editor/Fields/BelongsTo.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Editor/Fields/Boolean.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Editor/Fields/File.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Editor/Fields/Select2.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Editor/Fields/Checkbox.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Editor/Editor.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Editor/FormOptions.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Editor/HasEvents.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Builder.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Column.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/ColumnDefinitions.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/HasOptions.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/Html/Parameters.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/resources/views/editor.blade.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/resources/views/script.blade.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/resources/views/function.blade.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/resources/views/options.blade.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/resources/config/config.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-html/src/HtmlServiceProvider.php
+[Warn  - 10:45:14 PM] Could not compute cache key for yajra/laravel-datatables-html
+[Info  - 10:45:14 PM] Indexing yajra/laravel-datatables-buttons for definitions and static references
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-buttons/src/Exports/DataTablesCollectionExport.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-buttons/src/Html/DataTableHtml.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-buttons/src/Generators/DataTablesMakeCommand.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-buttons/src/Generators/DataTablesScopeCommand.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-buttons/src/Generators/DataTablesHtmlCommand.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-buttons/src/resources/views/print.blade.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-buttons/src/Services/DataTable.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-buttons/src/Services/DataTablesExportHandler.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-buttons/src/Contracts/DataTableHtmlBuilder.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-buttons/src/Contracts/DataTableScope.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-buttons/src/Contracts/DataTableButtons.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-buttons/src/Transformers/DataArrayTransformer.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-buttons/src/ButtonsServiceProvider.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-buttons/src/config/config.php
+[Info  - 10:45:15 PM] Indexing yajra/laravel-datatables-buttons for dynamic references
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-buttons/src/Exports/DataTablesCollectionExport.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-buttons/src/Html/DataTableHtml.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-buttons/src/Generators/DataTablesMakeCommand.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-buttons/src/Generators/DataTablesScopeCommand.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-buttons/src/Generators/DataTablesHtmlCommand.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-buttons/src/resources/views/print.blade.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-buttons/src/Services/DataTable.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-buttons/src/Services/DataTablesExportHandler.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-buttons/src/Contracts/DataTableHtmlBuilder.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-buttons/src/Contracts/DataTableScope.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-buttons/src/Contracts/DataTableButtons.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-buttons/src/Transformers/DataArrayTransformer.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-buttons/src/ButtonsServiceProvider.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-buttons/src/config/config.php
+[Warn  - 10:45:16 PM] Could not compute cache key for yajra/laravel-datatables-buttons
+[Info  - 10:45:16 PM] Indexing yajra/laravel-datatables-oracle for definitions and static references
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-oracle/src/QueryDataTable.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-oracle/src/Exceptions/Exception.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-oracle/src/Processors/DataProcessor.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-oracle/src/Processors/RowProcessor.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-oracle/src/Facades/DataTables.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-oracle/src/EloquentDataTable.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-oracle/src/CollectionDataTable.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-oracle/src/DataTableAbstract.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-oracle/src/Contracts/DataTable.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-oracle/src/Contracts/Formatter.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-oracle/src/lumen.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-oracle/src/Utilities/Helper.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-oracle/src/Utilities/Request.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-oracle/src/Utilities/Config.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-oracle/src/DataTables.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-oracle/src/helper.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-oracle/src/DataTablesServiceProvider.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-oracle/src/ApiResourceDataTable.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-oracle/src/config/datatables.php
+[Info  - 10:45:19 PM] Indexing yajra/laravel-datatables-oracle for dynamic references
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-oracle/src/QueryDataTable.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-oracle/src/Exceptions/Exception.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-oracle/src/Processors/DataProcessor.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-oracle/src/Processors/RowProcessor.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-oracle/src/Facades/DataTables.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-oracle/src/EloquentDataTable.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-oracle/src/CollectionDataTable.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-oracle/src/DataTableAbstract.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-oracle/src/Contracts/DataTable.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-oracle/src/Contracts/Formatter.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-oracle/src/lumen.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-oracle/src/Utilities/Helper.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-oracle/src/Utilities/Request.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-oracle/src/Utilities/Config.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-oracle/src/DataTables.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-oracle/src/helper.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-oracle/src/DataTablesServiceProvider.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-oracle/src/ApiResourceDataTable.php
+Parsing file:///var/www/html/hotel_project/vendor/yajra/laravel-datatables-oracle/src/config/datatables.php
+[Warn  - 10:45:21 PM] Could not compute cache key for yajra/laravel-datatables-oracle
+[Info  - 10:45:21 PM] Indexing maennchen/zipstream-php for definitions and static references
+Parsing file:///var/www/html/hotel_project/vendor/maennchen/zipstream-php/src/Option/Method.php
+Parsing file:///var/www/html/hotel_project/vendor/maennchen/zipstream-php/src/Option/Archive.php
+Parsing file:///var/www/html/hotel_project/vendor/maennchen/zipstream-php/src/Option/Version.php
+Parsing file:///var/www/html/hotel_project/vendor/maennchen/zipstream-php/src/Option/File.php
+Parsing file:///var/www/html/hotel_project/vendor/maennchen/zipstream-php/src/Exception.php
+Parsing file:///var/www/html/hotel_project/vendor/maennchen/zipstream-php/src/ZipStream.php
+Parsing file:///var/www/html/hotel_project/vendor/maennchen/zipstream-php/src/Stream.php
+Parsing file:///var/www/html/hotel_project/vendor/maennchen/zipstream-php/src/Exception/FileNotReadableException.php
+Parsing file:///var/www/html/hotel_project/vendor/maennchen/zipstream-php/src/Exception/EncodingException.php
+Parsing file:///var/www/html/hotel_project/vendor/maennchen/zipstream-php/src/Exception/IncompatibleOptionsException.php
+Parsing file:///var/www/html/hotel_project/vendor/maennchen/zipstream-php/src/Exception/StreamNotReadableException.php
+Parsing file:///var/www/html/hotel_project/vendor/maennchen/zipstream-php/src/Exception/FileNotFoundException.php
+Parsing file:///var/www/html/hotel_project/vendor/maennchen/zipstream-php/src/Exception/OverflowException.php
+Parsing file:///var/www/html/hotel_project/vendor/maennchen/zipstream-php/src/File.php
+Parsing file:///var/www/html/hotel_project/vendor/maennchen/zipstream-php/src/DeflateStream.php
+Parsing file:///var/www/html/hotel_project/vendor/maennchen/zipstream-php/src/Bigint.php
+Parsing file:///var/www/html/hotel_project/vendor/maennchen/zipstream-php/test/BigintTest.php
+Parsing file:///var/www/html/hotel_project/vendor/maennchen/zipstream-php/test/bootstrap.php
+Parsing file:///var/www/html/hotel_project/vendor/maennchen/zipstream-php/test/bug/BugHonorFileTimeTest.php
+Parsing file:///var/www/html/hotel_project/vendor/maennchen/zipstream-php/test/ZipStreamTest.php
+[Info  - 10:45:23 PM] Indexing maennchen/zipstream-php for dynamic references
+Parsing file:///var/www/html/hotel_project/vendor/maennchen/zipstream-php/src/Option/Method.php
+Parsing file:///var/www/html/hotel_project/vendor/maennchen/zipstream-php/src/Option/Archive.php
+Parsing file:///var/www/html/hotel_project/vendor/maennchen/zipstream-php/src/Option/Version.php
+Parsing file:///var/www/html/hotel_project/vendor/maennchen/zipstream-php/src/Option/File.php
+Parsing file:///var/www/html/hotel_project/vendor/maennchen/zipstream-php/src/Exception.php
+Parsing file:///var/www/html/hotel_project/vendor/maennchen/zipstream-php/src/ZipStream.php
+Parsing file:///var/www/html/hotel_project/vendor/maennchen/zipstream-php/src/Stream.php
+Parsing file:///var/www/html/hotel_project/vendor/maennchen/zipstream-php/src/Exception/FileNotReadableException.php
+Parsing file:///var/www/html/hotel_project/vendor/maennchen/zipstream-php/src/Exception/EncodingException.php
+Parsing file:///var/www/html/hotel_project/vendor/maennchen/zipstream-php/src/Exception/IncompatibleOptionsException.php
+Parsing file:///var/www/html/hotel_project/vendor/maennchen/zipstream-php/src/Exception/StreamNotReadableException.php
+Parsing file:///var/www/html/hotel_project/vendor/maennchen/zipstream-php/src/Exception/FileNotFoundException.php
+Parsing file:///var/www/html/hotel_project/vendor/maennchen/zipstream-php/src/Exception/OverflowException.php
+Parsing file:///var/www/html/hotel_project/vendor/maennchen/zipstream-php/src/File.php
+Parsing file:///var/www/html/hotel_project/vendor/maennchen/zipstream-php/src/DeflateStream.php
+Parsing file:///var/www/html/hotel_project/vendor/maennchen/zipstream-php/src/Bigint.php
+Parsing file:///var/www/html/hotel_project/vendor/maennchen/zipstream-php/test/BigintTest.php
+Parsing file:///var/www/html/hotel_project/vendor/maennchen/zipstream-php/test/bootstrap.php
+Parsing file:///var/www/html/hotel_project/vendor/maennchen/zipstream-php/test/bug/BugHonorFileTimeTest.php
+Parsing file:///var/www/html/hotel_project/vendor/maennchen/zipstream-php/test/ZipStreamTest.php
+[Warn  - 10:45:25 PM] Could not compute cache key for maennchen/zipstream-php
+[Info  - 10:45:25 PM] Restored league/commonmark:2.2.3 from cache
+[Info  - 10:45:25 PM] Restored league/flysystem:1.1.9 from cache
+[Info  - 10:45:25 PM] Restored league/mime-type-detection:1.9.0 from cache
+[Info  - 10:45:26 PM] Restored league/config:1.1.1 from cache
+[Info  - 10:45:26 PM] Restored swiftmailer/swiftmailer:6.3.0 from cache
+[Info  - 10:45:26 PM] Restored webmozart/assert:1.10.0 from cache
+[Info  - 10:45:26 PM] Indexing maatwebsite/excel for definitions and static references
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Fakes/ExcelFake.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/ChunkReader.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Exporter.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/SettingsProvider.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Reader.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Helpers/ArrayHelper.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Helpers/CellHelper.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Helpers/FileTypeDetector.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Exceptions/UnreadableFileException.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Exceptions/NoFilenameGivenException.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Exceptions/SheetNotFoundException.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Exceptions/LaravelExcelException.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Exceptions/NoTypeDetectedException.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Exceptions/RowSkippedException.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Exceptions/ConcernConflictException.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Exceptions/NoFilePathGivenException.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/QueuedWriter.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Excel.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/ExcelServiceProvider.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Facades/Excel.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/MapsCsvSettings.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/WithMappedCells.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/HasReferencesToOtherSheets.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/WithPreCalculateFormulas.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/WithCustomStartCell.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/WithProperties.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/WithEvents.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/WithValidation.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/WithConditionalSheets.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/FromView.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/WithChunkReading.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/FromQuery.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/WithStyles.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/WithColumnWidths.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/WithCalculatedFormulas.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/WithStrictNullComparison.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/WithUpserts.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/WithBatchInserts.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/WithCustomChunkSize.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/ShouldAutoSize.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/WithDrawings.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/ToArray.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/FromArray.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/WithHeadingRow.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/WithCustomValueBinder.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/FromIterator.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/SkipsErrors.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/Exportable.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/FromGenerator.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/FromCollection.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/WithCharts.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/WithReadFilter.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/WithUpsertColumns.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/ToModel.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/SkipsFailures.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/WithColumnLimit.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/WithMapping.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/ToCollection.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/WithStartRow.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/WithCustomCsvSettings.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/WithProgressBar.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/SkipsEmptyRows.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/ShouldQueueWithoutChain.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/RemembersChunkOffset.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/WithTitle.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/RegistersEventListeners.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/WithCustomQuerySize.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/SkipsOnFailure.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/SkipsOnError.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/SkipsUnknownSheets.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/WithFormatData.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/RemembersRowNumber.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/WithHeadings.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/WithMultipleSheets.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/WithLimit.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/Importable.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/WithColumnFormatting.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/OnEachRow.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Console/ExportMakeCommand.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Console/WithModelStub.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Console/ImportMakeCommand.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Transactions/TransactionManager.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Transactions/NullTransactionHandler.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Transactions/DbTransactionHandler.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Transactions/TransactionHandler.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/HeadingRowImport.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Writer.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Jobs/ProxyFailures.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Jobs/QueueExport.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Jobs/ReadChunk.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Jobs/QueueImport.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Jobs/CloseSheet.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Jobs/AppendViewToSheet.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Jobs/ExtendedQueueable.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Jobs/AppendQueryToSheet.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Jobs/AppendDataToSheet.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Jobs/AfterImportJob.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Jobs/Middleware/LocalizeJob.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Jobs/StoreQueuedExport.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Cache/BatchCache.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Cache/MemoryCache.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Cache/CacheManager.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/HasEventBus.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/DelegatedMacroable.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Cell.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/MappedReader.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/DefaultValueBinder.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Events/BeforeImport.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Events/BeforeWriting.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Events/AfterSheet.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Events/AfterImport.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Events/ImportFailed.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Events/Event.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Events/BeforeExport.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Events/BeforeSheet.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Filters/LimitFilter.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Filters/ChunkReadFilter.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Importer.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Files/TemporaryFile.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Files/TemporaryFileFactory.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Files/Disk.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Files/LocalTemporaryFile.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Files/Filesystem.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Files/RemoteTemporaryFile.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Factories/WriterFactory.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Factories/ReaderFactory.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Mixins/StoreCollection.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Mixins/DownloadCollection.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Sheet.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Row.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Imports/HeadingRowExtractor.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Imports/HeadingRowFormatter.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Imports/ModelImporter.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Imports/ModelManager.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Imports/EndRowFinder.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Validators/RowValidator.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Validators/Failure.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Validators/ValidationException.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/RegistersCustomConcerns.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/config/excel.php
+[Info  - 10:45:32 PM] Indexing maatwebsite/excel for dynamic references
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Fakes/ExcelFake.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/ChunkReader.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Exporter.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/SettingsProvider.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Reader.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Helpers/ArrayHelper.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Helpers/CellHelper.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Helpers/FileTypeDetector.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Exceptions/UnreadableFileException.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Exceptions/NoFilenameGivenException.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Exceptions/SheetNotFoundException.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Exceptions/LaravelExcelException.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Exceptions/NoTypeDetectedException.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Exceptions/RowSkippedException.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Exceptions/ConcernConflictException.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Exceptions/NoFilePathGivenException.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/QueuedWriter.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Excel.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/ExcelServiceProvider.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Facades/Excel.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/MapsCsvSettings.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/WithMappedCells.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/HasReferencesToOtherSheets.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/WithPreCalculateFormulas.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/WithCustomStartCell.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/WithProperties.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/WithEvents.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/WithValidation.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/WithConditionalSheets.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/FromView.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/WithChunkReading.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/FromQuery.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/WithStyles.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/WithColumnWidths.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/WithCalculatedFormulas.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/WithStrictNullComparison.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/WithUpserts.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/WithBatchInserts.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/WithCustomChunkSize.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/ShouldAutoSize.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/WithDrawings.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/ToArray.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/FromArray.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/WithHeadingRow.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/WithCustomValueBinder.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/FromIterator.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/SkipsErrors.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/Exportable.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/FromGenerator.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/FromCollection.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/WithCharts.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/WithReadFilter.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/WithUpsertColumns.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/ToModel.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/SkipsFailures.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/WithColumnLimit.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/WithMapping.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/ToCollection.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/WithStartRow.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/WithCustomCsvSettings.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/WithProgressBar.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/SkipsEmptyRows.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/ShouldQueueWithoutChain.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/RemembersChunkOffset.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/WithTitle.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/RegistersEventListeners.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/WithCustomQuerySize.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/SkipsOnFailure.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/SkipsOnError.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/SkipsUnknownSheets.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/WithFormatData.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/RemembersRowNumber.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/WithHeadings.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/WithMultipleSheets.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/WithLimit.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/Importable.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/WithColumnFormatting.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Concerns/OnEachRow.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Console/ExportMakeCommand.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Console/WithModelStub.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Console/ImportMakeCommand.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Transactions/TransactionManager.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Transactions/NullTransactionHandler.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Transactions/DbTransactionHandler.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Transactions/TransactionHandler.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/HeadingRowImport.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Writer.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Jobs/ProxyFailures.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Jobs/QueueExport.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Jobs/ReadChunk.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Jobs/QueueImport.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Jobs/CloseSheet.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Jobs/AppendViewToSheet.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Jobs/ExtendedQueueable.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Jobs/AppendQueryToSheet.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Jobs/AppendDataToSheet.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Jobs/AfterImportJob.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Jobs/Middleware/LocalizeJob.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Jobs/StoreQueuedExport.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Cache/BatchCache.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Cache/MemoryCache.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Cache/CacheManager.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/HasEventBus.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/DelegatedMacroable.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Cell.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/MappedReader.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/DefaultValueBinder.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Events/BeforeImport.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Events/BeforeWriting.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Events/AfterSheet.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Events/AfterImport.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Events/ImportFailed.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Events/Event.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Events/BeforeExport.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Events/BeforeSheet.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Filters/LimitFilter.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Filters/ChunkReadFilter.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Importer.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Files/TemporaryFile.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Files/TemporaryFileFactory.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Files/Disk.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Files/LocalTemporaryFile.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Files/Filesystem.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Files/RemoteTemporaryFile.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Factories/WriterFactory.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Factories/ReaderFactory.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Mixins/StoreCollection.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Mixins/DownloadCollection.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Sheet.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Row.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Imports/HeadingRowExtractor.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Imports/HeadingRowFormatter.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Imports/ModelImporter.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Imports/ModelManager.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Imports/EndRowFinder.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Validators/RowValidator.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Validators/Failure.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/Validators/ValidationException.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/src/RegistersCustomConcerns.php
+Parsing file:///var/www/html/hotel_project/vendor/maatwebsite/excel/config/excel.php
+[Warn  - 10:45:38 PM] Could not compute cache key for maatwebsite/excel
+[Info  - 10:45:38 PM] Restored symfony/polyfill-php81:1.25.0 from cache
+[Info  - 10:45:39 PM] Restored symfony/http-kernel:5.4.6 from cache
+[Info  - 10:45:39 PM] Restored symfony/translation:6.0.6 from cache
+[Info  - 10:45:39 PM] Restored symfony/polyfill-php80:1.25.0 from cache
+[Info  - 10:45:39 PM] Restored symfony/http-foundation:5.4.6 from cache
+[Info  - 10:45:39 PM] Restored symfony/mime:5.4.3 from cache
+[Info  - 10:45:39 PM] Restored symfony/polyfill-intl-grapheme:1.25.0 from cache
+[Info  - 10:45:39 PM] Restored symfony/service-contracts:2.4.1 from cache
+[Info  - 10:45:39 PM] Restored symfony/polyfill-php72:1.25.0 from cache
+[Info  - 10:45:39 PM] Restored symfony/process:5.4.5 from cache
+[Info  - 10:45:39 PM] Restored symfony/finder:5.4.3 from cache
+[Info  - 10:45:39 PM] Restored symfony/event-dispatcher:6.0.3 from cache
+[Info  - 10:45:39 PM] Restored symfony/event-dispatcher-contracts:3.0.0 from cache
+[Info  - 10:45:39 PM] Restored symfony/console:5.4.5 from cache
+[Info  - 10:45:39 PM] Restored symfony/css-selector:6.0.3 from cache
+[Info  - 10:45:39 PM] Restored symfony/string:6.0.3 from cache
+[Info  - 10:45:39 PM] Restored symfony/translation-contracts:3.0.0 from cache
+[Info  - 10:45:39 PM] Restored symfony/polyfill-intl-normalizer:1.25.0 from cache
+[Info  - 10:45:39 PM] Restored symfony/var-dumper:5.4.6 from cache
+[Info  - 10:45:39 PM] Restored symfony/routing:5.4.3 from cache
+[Info  - 10:45:39 PM] Restored symfony/polyfill-mbstring:1.25.0 from cache
+[Info  - 10:45:39 PM] Restored symfony/error-handler:5.4.3 from cache
+[Info  - 10:45:39 PM] Restored symfony/polyfill-ctype:1.25.0 from cache
+[Info  - 10:45:39 PM] Restored symfony/deprecation-contracts:3.0.0 from cache
+[Info  - 10:45:39 PM] Restored symfony/polyfill-intl-idn:1.25.0 from cache
+[Info  - 10:45:39 PM] Restored symfony/polyfill-iconv:1.25.0 from cache
+[Info  - 10:45:39 PM] Restored symfony/polyfill-php73:1.25.0 from cache
+[Info  - 10:45:39 PM] Restored asm89/stack-cors:2.1.1 from cache
+[Info  - 10:45:39 PM] Restored phpoption/phpoption:1.8.1 from cache
+[Info  - 10:45:39 PM] Restored graham-campbell/result-type:1.0.4 from cache
+[Info  - 10:45:39 PM] Indexing myclabs/php-enum for definitions and static references
+Parsing file:///var/www/html/hotel_project/vendor/myclabs/php-enum/src/PHPUnit/Comparator.php
+Parsing file:///var/www/html/hotel_project/vendor/myclabs/php-enum/src/Enum.php
+[Info  - 10:45:40 PM] Indexing myclabs/php-enum for dynamic references
+Parsing file:///var/www/html/hotel_project/vendor/myclabs/php-enum/src/PHPUnit/Comparator.php
+Parsing file:///var/www/html/hotel_project/vendor/myclabs/php-enum/src/Enum.php
+[Warn  - 10:45:40 PM] Could not compute cache key for myclabs/php-enum
+[Info  - 10:45:40 PM] Restored myclabs/deep-copy:1.11.0 from cache
+[Info  - 10:45:40 PM] Restored psr/simple-cache:1.0.1 from cache
+[Info  - 10:45:40 PM] Restored psr/event-dispatcher:1.0.0 from cache
+[Info  - 10:45:40 PM] Indexing psr/cache for definitions and static references
+Parsing file:///var/www/html/hotel_project/vendor/psr/cache/src/CacheItemPoolInterface.php
+Parsing file:///var/www/html/hotel_project/vendor/psr/cache/src/CacheItemInterface.php
+Parsing file:///var/www/html/hotel_project/vendor/psr/cache/src/InvalidArgumentException.php
+Parsing file:///var/www/html/hotel_project/vendor/psr/cache/src/CacheException.php
+[Info  - 10:45:40 PM] Indexing psr/cache for dynamic references
+Parsing file:///var/www/html/hotel_project/vendor/psr/cache/src/CacheItemPoolInterface.php
+Parsing file:///var/www/html/hotel_project/vendor/psr/cache/src/CacheItemInterface.php
+Parsing file:///var/www/html/hotel_project/vendor/psr/cache/src/InvalidArgumentException.php
+Parsing file:///var/www/html/hotel_project/vendor/psr/cache/src/CacheException.php
+[Warn  - 10:45:40 PM] Could not compute cache key for psr/cache
+[Info  - 10:45:40 PM] Restored psr/http-message:1.0.1 from cache
+[Info  - 10:45:40 PM] Restored psr/log:2.0.0 from cache
+[Info  - 10:45:40 PM] Restored psr/http-factory:1.0.1 from cache
+[Info  - 10:45:40 PM] Restored psr/http-client:1.0.1 from cache
+[Info  - 10:45:40 PM] Restored psr/container:1.1.2 from cache
+[Info  - 10:45:40 PM] Restored guzzlehttp/guzzle:7.4.1 from cache
+[Info  - 10:45:40 PM] Restored guzzlehttp/promises:1.5.1 from cache
+[Info  - 10:45:40 PM] Restored guzzlehttp/psr7:2.1.0 from cache
+[Info  - 10:45:40 PM] Restored theseer/tokenizer:1.2.1 from cache
+[Info  - 10:45:40 PM] Indexing markbaker/matrix for definitions and static references
+Parsing file:///var/www/html/hotel_project/vendor/markbaker/matrix/buildPhar.php
+Parsing file:///var/www/html/hotel_project/vendor/markbaker/matrix/examples/test.php
+Parsing file:///var/www/html/hotel_project/vendor/markbaker/matrix/classes/src/Operations.php
+Parsing file:///var/www/html/hotel_project/vendor/markbaker/matrix/classes/src/Operators/Subtraction.php
+Parsing file:///var/www/html/hotel_project/vendor/markbaker/matrix/classes/src/Operators/Addition.php
+Parsing file:///var/www/html/hotel_project/vendor/markbaker/matrix/classes/src/Operators/Division.php
+Parsing file:///var/www/html/hotel_project/vendor/markbaker/matrix/classes/src/Operators/Multiplication.php
+Parsing file:///var/www/html/hotel_project/vendor/markbaker/matrix/classes/src/Operators/DirectSum.php
+Parsing file:///var/www/html/hotel_project/vendor/markbaker/matrix/classes/src/Operators/Operator.php
+Parsing file:///var/www/html/hotel_project/vendor/markbaker/matrix/classes/src/Exception.php
+Parsing file:///var/www/html/hotel_project/vendor/markbaker/matrix/classes/src/Builder.php
+Parsing file:///var/www/html/hotel_project/vendor/markbaker/matrix/classes/src/Decomposition/Decomposition.php
+Parsing file:///var/www/html/hotel_project/vendor/markbaker/matrix/classes/src/Decomposition/LU.php
+Parsing file:///var/www/html/hotel_project/vendor/markbaker/matrix/classes/src/Decomposition/QR.php
+Parsing file:///var/www/html/hotel_project/vendor/markbaker/matrix/classes/src/Matrix.php
+Parsing file:///var/www/html/hotel_project/vendor/markbaker/matrix/classes/src/Div0Exception.php
+Parsing file:///var/www/html/hotel_project/vendor/markbaker/matrix/classes/src/Functions.php
+[Info  - 10:45:41 PM] Indexing markbaker/matrix for dynamic references
+Parsing file:///var/www/html/hotel_project/vendor/markbaker/matrix/buildPhar.php
+Parsing file:///var/www/html/hotel_project/vendor/markbaker/matrix/examples/test.php
+Parsing file:///var/www/html/hotel_project/vendor/markbaker/matrix/classes/src/Operations.php
+Parsing file:///var/www/html/hotel_project/vendor/markbaker/matrix/classes/src/Operators/Subtraction.php
+Parsing file:///var/www/html/hotel_project/vendor/markbaker/matrix/classes/src/Operators/Addition.php
+Parsing file:///var/www/html/hotel_project/vendor/markbaker/matrix/classes/src/Operators/Division.php
+Parsing file:///var/www/html/hotel_project/vendor/markbaker/matrix/classes/src/Operators/Multiplication.php
+Parsing file:///var/www/html/hotel_project/vendor/markbaker/matrix/classes/src/Operators/DirectSum.php
+Parsing file:///var/www/html/hotel_project/vendor/markbaker/matrix/classes/src/Operators/Operator.php
+Parsing file:///var/www/html/hotel_project/vendor/markbaker/matrix/classes/src/Exception.php
+Parsing file:///var/www/html/hotel_project/vendor/markbaker/matrix/classes/src/Builder.php
+Parsing file:///var/www/html/hotel_project/vendor/markbaker/matrix/classes/src/Decomposition/Decomposition.php
+Parsing file:///var/www/html/hotel_project/vendor/markbaker/matrix/classes/src/Decomposition/LU.php
+Parsing file:///var/www/html/hotel_project/vendor/markbaker/matrix/classes/src/Decomposition/QR.php
+Parsing file:///var/www/html/hotel_project/vendor/markbaker/matrix/classes/src/Matrix.php
+Parsing file:///var/www/html/hotel_project/vendor/markbaker/matrix/classes/src/Div0Exception.php
+Parsing file:///var/www/html/hotel_project/vendor/markbaker/matrix/classes/src/Functions.php
+[Warn  - 10:45:43 PM] Could not compute cache key for markbaker/matrix
+[Info  - 10:45:43 PM] Indexing markbaker/complex for definitions and static references
+Parsing file:///var/www/html/hotel_project/vendor/markbaker/complex/examples/testFunctions.php
+Parsing file:///var/www/html/hotel_project/vendor/markbaker/complex/examples/complexTest.php
+Parsing file:///var/www/html/hotel_project/vendor/markbaker/complex/examples/testOperations.php
+Parsing file:///var/www/html/hotel_project/vendor/markbaker/complex/classes/src/Operations.php
+Parsing file:///var/www/html/hotel_project/vendor/markbaker/complex/classes/src/Exception.php
+Parsing file:///var/www/html/hotel_project/vendor/markbaker/complex/classes/src/Functions.php
+Parsing file:///var/www/html/hotel_project/vendor/markbaker/complex/classes/src/Complex.php
+[Info  - 10:45:45 PM] Indexing markbaker/complex for dynamic references
+Parsing file:///var/www/html/hotel_project/vendor/markbaker/complex/examples/testFunctions.php
+Parsing file:///var/www/html/hotel_project/vendor/markbaker/complex/examples/complexTest.php
+Parsing file:///var/www/html/hotel_project/vendor/markbaker/complex/examples/testOperations.php
+Parsing file:///var/www/html/hotel_project/vendor/markbaker/complex/classes/src/Operations.php
+Parsing file:///var/www/html/hotel_project/vendor/markbaker/complex/classes/src/Exception.php
+Parsing file:///var/www/html/hotel_project/vendor/markbaker/complex/classes/src/Functions.php
+Parsing file:///var/www/html/hotel_project/vendor/markbaker/complex/classes/src/Complex.php
+[Warn  - 10:45:46 PM] Could not compute cache key for markbaker/complex
+[Info  - 10:45:46 PM] Restored nesbot/carbon:2.57.0 from cache
+[Info  - 10:45:46 PM] Restored vlucas/phpdotenv:5.4.1 from cache
+[Info  - 10:45:46 PM] Restored filp/whoops:2.14.5 from cache
+[Info  - 10:45:46 PM] Restored egulias/email-validator:2.1.25 from cache
+[Info  - 10:45:46 PM] Restored nette/utils:3.2.7 from cache
+[Info  - 10:45:46 PM] Restored nette/schema:1.2.2 from cache
+[Info  - 10:45:46 PM] All 7862 PHP files parsed in 191 seconds. 540 MiB allocated.
