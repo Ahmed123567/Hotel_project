@@ -7,64 +7,29 @@ use App\Models\Room;
 use App\Models\User;
 use Illuminate\Http\Request;
 use Yajra\DataTables\Facades\DataTables;
+use App\Trait\cleanCodeTrait;
 
 class ManageRoomController extends Controller
 {
-    public function index(Request $request){
+    use cleanCodeTrait;
 
+    public function index(Request $request)
+    {
+      
         if ($request->ajax()) {
-            $data = Room::latest()->get();            
-            return DataTables::of($data)
-                ->addIndexColumn()
-                ->addColumn('owner', function($row){
-                    
-                    if($row->user_id){
-                        $owner = $row->user->name;
-                    }else{
-                        $owner = "Avillable";
-                    }
-                    
-                    return $owner;
-                })
-                ->rawColumns(['owner'])
-                ->addColumn('price', function($row){
-                    
-                    if($row->capacity == 'Two Persons'){
-                        $price = '$150.0';
-                    }elseif($row->capacity == 'Three Persons'){
-                        $price = "$200.0";
-                    }else{
-                        $price = "$300.0";
-                    }
-                    
-                    return $price;
-                })
-                ->rawColumns(['owner'])
-                ->addColumn('action', function($row){
-                    $actionBtn = "
-                    <a href='http://127.0.0.1:8000/manage/rooms/edit/$row->id'
-                     class='edit btn btn-success btn-sm'>Edit</a> 
-                     ";
-                     
-                     if($row->user_id){
-                        $actionBtn = $actionBtn . "
-                        <a href='http://127.0.0.1:8000/manage/rooms/make-avillable/$row->id'
-                        onclick='return confirm( \"Are you sure?\" )'  class='edit btn btn-danger btn-sm'>Make Avillable</a> 
-                        ";
-                     }  
+            $data = Room::latest()->get();  
 
+            // roomDataTable is function from cleanCodeTrait
 
-                     ;
-                    return $actionBtn;
-                })
-                ->rawColumns(['action'])
-                ->make(true);
+            return $this->roomsDataTable($data);
         }
+
 
         return view('manage.room.index');
     }
 
-    public function avillable($room_id){
+    public function avillable($room_id)
+    {
 
         Room::find($room_id)->update([
             'user_id' => null
@@ -74,26 +39,32 @@ class ManageRoomController extends Controller
     }
 
 
-    public function edit($room_id){
-       
+    public function edit($room_id)
+    {
+
         $room = Room::find($room_id);
         $users = User::all();
 
+    
 
-
-        return view('manage.room.edit' , ['room' => $room, 'users' => $users ]);
+        return view('manage.room.edit', ['room' => $room, 'users' => $users]);
     }
 
-    public function update(Request $request){
+    public function update(Request $request)
+    {
 
-        $roomData = $request->all(); 
+        $roomData = $request->all();
 
         Room::find($roomData['room_id'])->update([
             'user_id' => $roomData['owner'],
-            'capacity' => $roomData['capacity']
+            'capacity' => $roomData['capacity'],
+            
+        ]);
+
+        Room::where( 'capacity',$roomData['capacity'])->update([
+            'price' => $roomData['price']
         ]);
 
         return redirect()->route('manage.rooms.index');
     }
-
 }

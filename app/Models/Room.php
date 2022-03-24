@@ -14,6 +14,7 @@ class Room extends Model
         'user_id',
         'floor_id',
         'capacity',
+        'price',
         'updated_at'
     ];
 
@@ -53,6 +54,23 @@ class Room extends Model
         ;
     }
 
+
+    protected static function booted()
+    {
+      parent::booted();
+  
+      static::creating(function ($room) {
+          if($room->capacity == "Two Persons"){
+               $room->price = "$150.00";
+          } elseif($room->capacity == 'Three Persons') {
+              $room->price = '$200.00';
+          }else{
+              $room->price = '$300.00';
+          }
+      });
+
+    
+    }
 
     public function user(){
 

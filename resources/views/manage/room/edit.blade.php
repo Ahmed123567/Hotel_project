@@ -70,9 +70,14 @@
                         @enderror
 
                     </div>
+                    <div class="form-group">
+                        <label for="exampleInputPassword1">Price</label>
+                        <input type="text" name="price" class="form-control"  placeholder="Price" value="{{$room->price}}">
+                    </div>
+
                 </div>
 
-
+              
 
                 <input type="hidden" name="room_id" value="{{ $room->id }}">
 

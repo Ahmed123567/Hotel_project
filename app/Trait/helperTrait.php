@@ -2,6 +2,7 @@
 
 namespace App\Trait;
 
+use Yajra\DataTables\Facades\DataTables;
 
 trait helperTrait
 {
@@ -14,5 +15,7 @@ trait helperTrait
 
         return $imageName;
     }
+
+    
 
 }
