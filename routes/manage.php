@@ -47,6 +47,9 @@ Route::group(['prefix'=> 'rooms'], function(){
 
     Route::post('update', [ManageRoomController::class, 'update'])->name('manage.rooms.update');
 
+    Route::post('price-change', [ManageRoomController::class, 'priceChange'])->name('manage.rooms.priceChange');
+
+
 
 });
 

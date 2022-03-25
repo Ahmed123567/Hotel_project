@@ -227,8 +227,12 @@
 				
 					<hr>
 
-					<a href="#" class="btn btn-success">Edit</a>
-					<a href="#" class="btn btn-danger">Delete</a>
+					<a href="{{route('manage.users.edit', ['user_id' => $user->id])}}" class="btn btn-success">Edit</a>
+					
+                    @if($user->role != "admin")
+                    <a href="{{route('manage.users.delete', ['user_id' => $user->id])}}" 
+                        onclick="return confirm('Are You Sure ?')" class="btn btn-danger">Delete</a>
+                    @endif
 
                 </div>
             </div>

@@ -53,11 +53,12 @@ trait cleanCodeTrait
                     <a href='http://127.0.0.1:8000/manage/users/$row->id' class='btn btn-primary btn-sm'>View</a>
                     <a href='http://127.0.0.1:8000/manage/users/edit/$row->id'
                      class='edit btn btn-success btn-sm'>Edit</a> 
+                     ";
+                    if($row->role != 'admin'){
 
-                     <a onclick='return confirm( \"Are you sure?\" )' href='http://127.0.0.1:8000/manage/users/delete/$row->id' 
-                     class='delete btn btn-danger btn-sm'>Delete</a>
-                     
-                     "
+                    $actionBtn = $actionBtn .   "<a onclick='return confirm( \"Are you sure?\" )' href='http://127.0.0.1:8000/manage/users/delete/$row->id' 
+                     class='delete btn btn-danger btn-sm'>Delete</a>";
+                    }
                      
                      ;
                     return $actionBtn;

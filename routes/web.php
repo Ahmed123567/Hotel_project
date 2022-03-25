@@ -16,6 +16,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', [MainPageController::class, 'index'])->name('main.index');
+Route::get('/room', [MainPageController::class ,'room'] )->name('main.room');
 
 Auth::routes();
 

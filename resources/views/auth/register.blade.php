@@ -1,11 +1,11 @@
-@extends('layouts.app')
+@extends('layouts.appUser')
 
 @section('content')
 <div class="container">
-    <div class="row justify-content-center">
+    <div class="row justify-content-center my-5">
         <div class="col-md-8">
             <div class="card">
-                <div class="card-header">{{ __('Register') }}</div>
+                {{-- <div class="card-header">{{ __('Register') }}</div> --}}
 
                 <div class="card-body">
                     <form method="POST" action="{{ route('register') }}">
@@ -61,11 +61,16 @@
                             </div>
                         </div>
 
+
+
                         <div class="row mb-0">
                             <div class="col-md-6 offset-md-4">
                                 <button type="submit" class="btn btn-primary">
                                     {{ __('Register') }}
                                 </button>
+                                <a class="btn btn-link" href="{{ route('login') }}" >
+                                    Sign In 
+                                </a>
                             </div>
                         </div>
                     </form>

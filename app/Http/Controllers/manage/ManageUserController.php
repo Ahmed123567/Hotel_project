@@ -20,9 +20,11 @@ class ManageUserController extends Controller
     use helperTrait;
     use cleanCodeTrait;
 
+    ////////////////////index///////////////////////////////////////
+
     public function index(Request $request)
     {
-        
+
 
         if ($request->ajax()) {
             $data = User::latest()->get();
@@ -39,6 +41,8 @@ class ManageUserController extends Controller
     }
 
 
+    ////////////////////show///////////////////////////////////////
+
 
     public function show($user_id)
     {
@@ -51,6 +55,7 @@ class ManageUserController extends Controller
     }
 
 
+    ////////////////////create///////////////////////////////////////
 
     public function create()
     {
@@ -65,6 +70,9 @@ class ManageUserController extends Controller
 
         return view('manage.user.edit', ['user' => $user]);
     }
+
+
+    ////////////////////store///////////////////////////////////////
 
 
     public function store(UserRequest $request)
@@ -90,6 +98,9 @@ class ManageUserController extends Controller
         return redirect()->back();
     }
 
+
+    ////////////////////update///////////////////////////////////////
+
     public function update(UserRequest $request)
     {
 
@@ -112,6 +123,8 @@ class ManageUserController extends Controller
 
         return redirect()->back();
     }
+
+    ////////////////////delete///////////////////////////////////////
 
 
     public function delete($user_id)
