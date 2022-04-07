@@ -126,8 +126,10 @@
                                     @endif
                                     <td>
                                         <a href='{{route('manage.rooms.edit' ,['room_id' => $room->id])}}' class='badge bg-success'>Edit</a> 
+                                    @if ($room->user_id)
                                         <a href='{{route('manage.rooms.avillable' ,['room_id' => $room->id])}}'
-                                            onclick='return confirm( \"Are you sure?\" )'  class='badge bg-danger'>Make Avillable</a> 
+                                            onclick='return confirm("Are you sure?" ) '  class='badge bg-danger'>Make Avillable</a> 
+                                    @endif
                                     </td>
                                 </tr>
                               @endforeach

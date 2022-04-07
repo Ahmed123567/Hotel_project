@@ -1,0 +1,9 @@
+[2022-04-04 11:26:43.968] [sharedprocess] [info] Starting worker process with pid 12779 (type: fileWatcher, window: 1).
+[2022-04-04 11:26:52.699] [sharedprocess] [info] Deleted from disk shufo.vscode-blade-formatter /root/.vscode/extensions/shufo.vscode-blade-formatter-0.13.12
+[2022-04-04 11:26:56.141] [sharedprocess] [info] Getting Manifest... shufo.vscode-blade-formatter
+[2022-04-04 11:26:58.148] [sharedprocess] [info] Installing extension: shufo.vscode-blade-formatter
+[2022-04-04 11:27:11.888] [sharedprocess] [info] Downloaded extension: shufo.vscode-blade-formatter /var/www/html/hotel_project/~/.vscode-root/CachedExtensionVSIXs/shufo.vscode-blade-formatter-0.13.16
+[2022-04-04 11:27:20.561] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.b4fd6478-3367-42ff-94ec-7fe99d29710a: shufo.vscode-blade-formatter
+[2022-04-04 11:27:20.883] [sharedprocess] [info] Renamed to /root/.vscode/extensions/shufo.vscode-blade-formatter-0.13.16
+[2022-04-04 11:27:20.892] [sharedprocess] [info] Extracting completed. shufo.vscode-blade-formatter
+[2022-04-04 11:27:21.043] [sharedprocess] [info] Extension installed successfully: shufo.vscode-blade-formatter

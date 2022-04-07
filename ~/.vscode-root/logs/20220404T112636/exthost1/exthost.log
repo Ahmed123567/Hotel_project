@@ -1,0 +1,16 @@
+[2022-04-04 11:26:44.322] [exthost] [info] Extension host with pid 12749 started
+[2022-04-04 11:26:44.322] [exthost] [info] Skipping acquiring lock for /var/www/html/hotel_project/~/.vscode-root/User/workspaceStorage/11e8408c35694307231992d9f44b3129.
+[2022-04-04 11:26:44.655] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-04-04 11:26:44.867] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-04-04 11:26:45.061] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-04-04 11:26:45.356] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer, startup: true, activationEvent: '*'
+[2022-04-04 11:26:46.058] [exthost] [info] ExtensionService#_doActivateExtension RobbOwen.synthwave-vscode, startup: true, activationEvent: '*'
+[2022-04-04 11:26:46.627] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons, startup: true, activationEvent: '*'
+[2022-04-04 11:26:46.841] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2022-04-04 11:26:47.445] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-04-04 11:26:48.272] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-04-04 11:26:48.607] [exthost] [info] ExtensionService#_doActivateExtension zobo.php-intellisense, startup: true, activationEvent: 'workspaceContains:**/*.php'
+[2022-04-04 11:27:00.446] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-04 11:27:00.497] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-04 11:27:00.692] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 283
+[2022-04-04 11:27:28.036] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 414

@@ -20,4 +20,5 @@ Route::get('/room', [MainPageController::class ,'room'] )->name('main.room');
 
 Auth::routes();
 
+
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');

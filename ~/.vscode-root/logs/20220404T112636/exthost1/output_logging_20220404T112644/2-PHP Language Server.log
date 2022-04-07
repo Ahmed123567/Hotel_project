@@ -1,0 +1,424 @@
+DEBUG     Checking PHPLS_ALLOW_XDEBUG
+DEBUG     The Xdebug extension is not loaded
+
+[Info  - 11:27:08 AM] OK!
+[Info  - 11:27:09 AM] 7891 files total
+[Info  - 11:27:09 AM] Indexing project for definitions and static references
+Parsing file:///var/www/html/hotel_project/tests/Feature/ExampleTest.php
+Parsing file:///var/www/html/hotel_project/tests/CreatesApplication.php
+Parsing file:///var/www/html/hotel_project/tests/TestCase.php
+Parsing file:///var/www/html/hotel_project/tests/Unit/ExampleTest.php
+Parsing file:///var/www/html/hotel_project/server.php
+Parsing file:///var/www/html/hotel_project/storage/framework/views/90163755ad881bb40e1bc8cbb730172eee7d38f6.php
+Parsing file:///var/www/html/hotel_project/storage/framework/views/2fcaea56ffc0a3cbdc7a522d76b18b5cc3144e37.php
+Parsing file:///var/www/html/hotel_project/storage/framework/views/b9ec0b1790f15f0cb394a6e146b332f9cd0707ad.php
+Parsing file:///var/www/html/hotel_project/storage/framework/views/54c52e1ddd5e3a4449c57fc3c1bb1d66a85276f0.php
+Parsing file:///var/www/html/hotel_project/storage/framework/views/d4b53c2887079afbf889d517e7fe7464a317b238.php
+Parsing file:///var/www/html/hotel_project/storage/framework/views/1df4527914e616c0cd0c14b8b762bb8faff50854.php
+Parsing file:///var/www/html/hotel_project/storage/framework/views/0b7166d15176032e4514a4198d779433908c973f.php
+Parsing file:///var/www/html/hotel_project/storage/framework/views/58fab84df4e45afec70b0922a668daf3831f563d.php
+Parsing file:///var/www/html/hotel_project/storage/framework/views/18ec1a2cacddf057822c5545456bc61f3d06a592.php
+Parsing file:///var/www/html/hotel_project/storage/framework/views/0ff0ab41e3e187be79ff4bb6a36d8a1a0c61a3a1.php
+Parsing file:///var/www/html/hotel_project/storage/framework/views/ec8d647f015703f09e479ff7fceacfd90e5453a6.php
+Parsing file:///var/www/html/hotel_project/storage/framework/views/cb5138b41ec23f31a78cc067046314cdb634c4fd.php
+Parsing file:///var/www/html/hotel_project/storage/framework/views/f36f1e47eeea1aabd363d9a23f2ca11517e07ad5.php
+Parsing file:///var/www/html/hotel_project/storage/framework/views/111b3718d30dd22cd520b643d016ec4f65cba321.php
+Parsing file:///var/www/html/hotel_project/storage/framework/views/0f5cc830f4543e5ff12c35bee6ea0a129da9ee22.php
+Parsing file:///var/www/html/hotel_project/storage/framework/views/a744deade72cd320249cdbe78c70d8ea6f057114.php
+Parsing file:///var/www/html/hotel_project/storage/framework/views/837ef576351531491535408273b3b7e2ac479912.php
+Parsing file:///var/www/html/hotel_project/storage/framework/views/65e4c50bf449e6c11a61f58a45a6bd7216577420.php
+Parsing file:///var/www/html/hotel_project/storage/framework/views/d08fb32455ff99f2f73034fa958667ed6e52a7e1.php
+Parsing file:///var/www/html/hotel_project/storage/framework/views/a168d512af61bf32f73e4c1903dee914a39b8928.php
+Parsing file:///var/www/html/hotel_project/storage/framework/views/7b20ae55f6086e6c9626a210acc12827cc549030.php
+Parsing file:///var/www/html/hotel_project/storage/framework/views/9dc5b154defcf96560c512ed1e2dedc345cc12b5.php
+Parsing file:///var/www/html/hotel_project/storage/framework/views/5bf2510be1930ce179bf93e4eb31954bae6c471c.php
+Parsing file:///var/www/html/hotel_project/storage/framework/views/096a2f13b5667a68f6efa766587c4e2fbd200735.php
+Parsing file:///var/www/html/hotel_project/storage/framework/views/bd32def46f442f93007f4bfc9f7ecb1aa45cc630.php
+Parsing file:///var/www/html/hotel_project/storage/framework/views/50cb504da8a18a5ae7d65f2d287cb85d8d150be4.php
+Parsing file:///var/www/html/hotel_project/storage/framework/views/6689c6e929d85c527111f26e2023e8f05fa1bc70.php
+Parsing file:///var/www/html/hotel_project/database/seeders/DatabaseSeeder.php
+Parsing file:///var/www/html/hotel_project/database/factories/UserFactory.php
+Parsing file:///var/www/html/hotel_project/database/migrations/2022_03_19_194033_create_rooms_table.php
+Parsing file:///var/www/html/hotel_project/database/migrations/2022_03_20_154830_add_image_to_users_table.php
+Parsing file:///var/www/html/hotel_project/database/migrations/2022_03_19_194116_create_floors_table.php
+Parsing file:///var/www/html/hotel_project/database/migrations/2022_03_21_214344_add_change_to_rooms_table.php
+Parsing file:///var/www/html/hotel_project/database/migrations/2022_03_22_191641_add_price_to_rooms_table.php
+Parsing file:///var/www/html/hotel_project/database/migrations/2022_03_19_194640_create_with_users_table.php
+Parsing file:///var/www/html/hotel_project/database/migrations/2014_10_12_000000_create_users_table.php
+Parsing file:///var/www/html/hotel_project/database/migrations/2022_03_22_122928_add_capacity_to_rooms_table.php
+Parsing file:///var/www/html/hotel_project/database/migrations/2019_08_19_000000_create_failed_jobs_table.php
+Parsing file:///var/www/html/hotel_project/database/migrations/2014_10_12_100000_create_password_resets_table.php
+Parsing file:///var/www/html/hotel_project/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php
+Parsing file:///var/www/html/hotel_project/resources/views/manage/room/edit.blade.php
+Parsing file:///var/www/html/hotel_project/resources/views/manage/room/index.blade.php
+Parsing file:///var/www/html/hotel_project/resources/views/manage/user/edit.blade.php
+Parsing file:///var/www/html/hotel_project/resources/views/manage/user/create.blade.php
+Parsing file:///var/www/html/hotel_project/resources/views/manage/user/index.blade.php
+Parsing file:///var/www/html/hotel_project/resources/views/manage/user/show.blade.php
+Parsing file:///var/www/html/hotel_project/resources/views/manage/index.blade.php
+Parsing file:///var/www/html/hotel_project/resources/views/auth/register.blade.php
+Parsing file:///var/www/html/hotel_project/resources/views/auth/passwords/confirm.blade.php
+Parsing file:///var/www/html/hotel_project/resources/views/auth/passwords/reset.blade.php
+Parsing file:///var/www/html/hotel_project/resources/views/auth/passwords/email.blade.php
+Parsing file:///var/www/html/hotel_project/resources/views/auth/verify.blade.php
+Parsing file:///var/www/html/hotel_project/resources/views/auth/login.blade.php
+Parsing file:///var/www/html/hotel_project/resources/views/home.blade.php
+Parsing file:///var/www/html/hotel_project/resources/views/userInterface/main-page.blade.php
+Parsing file:///var/www/html/hotel_project/resources/views/userInterface/room.blade.php
+Parsing file:///var/www/html/hotel_project/resources/views/vendor/datatables/print.blade.php
+Parsing file:///var/www/html/hotel_project/resources/views/layouts/sidebar.blade.php
+Parsing file:///var/www/html/hotel_project/resources/views/layouts/app.blade.php
+Parsing file:///var/www/html/hotel_project/resources/views/layouts/nav.blade.php
+Parsing file:///var/www/html/hotel_project/resources/views/layouts/appAdmin.blade.php
+Parsing file:///var/www/html/hotel_project/resources/views/layouts/appUser.blade.php
+Parsing file:///var/www/html/hotel_project/resources/lang/en/auth.php
+Parsing file:///var/www/html/hotel_project/resources/lang/en/validation.php
+Parsing file:///var/www/html/hotel_project/resources/lang/en/pagination.php
+Parsing file:///var/www/html/hotel_project/resources/lang/en/passwords.php
+Parsing file:///var/www/html/hotel_project/routes/channels.php
+Parsing file:///var/www/html/hotel_project/routes/console.php
+Parsing file:///var/www/html/hotel_project/routes/web.php
+Parsing file:///var/www/html/hotel_project/routes/api.php
+Parsing file:///var/www/html/hotel_project/routes/manage.php
+Parsing file:///var/www/html/hotel_project/bootstrap/cache/packages.php
+Parsing file:///var/www/html/hotel_project/bootstrap/cache/services.php
+Parsing file:///var/www/html/hotel_project/bootstrap/app.php
+Parsing file:///var/www/html/hotel_project/app/Exceptions/Handler.php
+Parsing file:///var/www/html/hotel_project/app/Models/Room.php
+Parsing file:///var/www/html/hotel_project/app/Models/User.php
+Parsing file:///var/www/html/hotel_project/app/Trait/helperTrait.php
+Parsing file:///var/www/html/hotel_project/app/Trait/cleanCodeTrait.php
+Parsing file:///var/www/html/hotel_project/app/Console/Kernel.php
+Parsing file:///var/www/html/hotel_project/app/Http/Kernel.php
+Parsing file:///var/www/html/hotel_project/app/Http/Middleware/RedirectIfAuthenticated.php
+Parsing file:///var/www/html/hotel_project/app/Http/Middleware/TrimStrings.php
+Parsing file:///var/www/html/hotel_project/app/Http/Middleware/PreventRequestsDuringMaintenance.php
+Parsing file:///var/www/html/hotel_project/app/Http/Middleware/Authenticate.php
+Parsing file:///var/www/html/hotel_project/app/Http/Middleware/VerifyCsrfToken.php
+Parsing file:///var/www/html/hotel_project/app/Http/Middleware/TrustHosts.php
+Parsing file:///var/www/html/hotel_project/app/Http/Middleware/isAdmin.php
+Parsing file:///var/www/html/hotel_project/app/Http/Middleware/EncryptCookies.php
+Parsing file:///var/www/html/hotel_project/app/Http/Middleware/TrustProxies.php
+Parsing file:///var/www/html/hotel_project/app/Http/Requests/UserRequest.php
+Parsing file:///var/www/html/hotel_project/app/Http/Controllers/HomeController.php
+Parsing file:///var/www/html/hotel_project/app/Http/Controllers/manage/ManageRoomController.php
+Parsing file:///var/www/html/hotel_project/app/Http/Controllers/manage/ManageController.php
+Parsing file:///var/www/html/hotel_project/app/Http/Controllers/manage/ManageUserController.php
+Parsing file:///var/www/html/hotel_project/app/Http/Controllers/userInetrface/MainPageController.php
+Parsing file:///var/www/html/hotel_project/app/Http/Controllers/Controller.php
+Parsing file:///var/www/html/hotel_project/app/Http/Controllers/Auth/VerificationController.php
+Parsing file:///var/www/html/hotel_project/app/Http/Controllers/Auth/LoginController.php
+Parsing file:///var/www/html/hotel_project/app/Http/Controllers/Auth/ResetPasswordController.php
+Parsing file:///var/www/html/hotel_project/app/Http/Controllers/Auth/RegisterController.php
+Parsing file:///var/www/html/hotel_project/app/Http/Controllers/Auth/ConfirmPasswordController.php
+Parsing file:///var/www/html/hotel_project/app/Http/Controllers/Auth/ForgotPasswordController.php
+Parsing file:///var/www/html/hotel_project/app/Providers/EventServiceProvider.php
+Parsing file:///var/www/html/hotel_project/app/Providers/BroadcastServiceProvider.php
+Parsing file:///var/www/html/hotel_project/app/Providers/RouteServiceProvider.php
+Parsing file:///var/www/html/hotel_project/app/Providers/AuthServiceProvider.php
+Parsing file:///var/www/html/hotel_project/app/Providers/AppServiceProvider.php
+Parsing file:///var/www/html/hotel_project/vendor/autoload.php
+Parsing file:///var/www/html/hotel_project/vendor/composer/platform_check.php
+Parsing file:///var/www/html/hotel_project/vendor/composer/autoload_classmap.php
+[Info  - 11:27:10 AM] Ignoring file file:///var/www/html/hotel_project/vendor/composer/autoload_classmap.php because it exceeds size limit of 150000 bytes (815364)
+Parsing file:///var/www/html/hotel_project/vendor/composer/autoload_files.php
+Parsing file:///var/www/html/hotel_project/vendor/composer/ClassLoader.php
+Parsing file:///var/www/html/hotel_project/vendor/composer/autoload_namespaces.php
+Parsing file:///var/www/html/hotel_project/vendor/composer/installed.php
+Parsing file:///var/www/html/hotel_project/vendor/composer/autoload_static.php
+[Info  - 11:27:11 AM] Ignoring file file:///var/www/html/hotel_project/vendor/composer/autoload_static.php because it exceeds size limit of 150000 bytes (894569)
+Parsing file:///var/www/html/hotel_project/vendor/composer/autoload_real.php
+Parsing file:///var/www/html/hotel_project/vendor/composer/InstalledVersions.php
+Parsing file:///var/www/html/hotel_project/vendor/composer/autoload_psr4.php
+Parsing file:///var/www/html/hotel_project/public/index.php
+Parsing file:///var/www/html/hotel_project/config/session.php
+Parsing file:///var/www/html/hotel_project/config/datatables-buttons.php
+Parsing file:///var/www/html/hotel_project/config/queue.php
+Parsing file:///var/www/html/hotel_project/config/filesystems.php
+Parsing file:///var/www/html/hotel_project/config/mail.php
+Parsing file:///var/www/html/hotel_project/config/auth.php
+Parsing file:///var/www/html/hotel_project/config/view.php
+Parsing file:///var/www/html/hotel_project/config/hashing.php
+Parsing file:///var/www/html/hotel_project/config/database.php
+Parsing file:///var/www/html/hotel_project/config/broadcasting.php
+Parsing file:///var/www/html/hotel_project/config/cors.php
+Parsing file:///var/www/html/hotel_project/config/datatables.php
+Parsing file:///var/www/html/hotel_project/config/sanctum.php
+Parsing file:///var/www/html/hotel_project/config/app.php
+Parsing file:///var/www/html/hotel_project/config/cache.php
+Parsing file:///var/www/html/hotel_project/config/services.php
+Parsing file:///var/www/html/hotel_project/config/logging.php
+[Info  - 11:27:11 AM] Indexing project for dynamic references
+Parsing file:///var/www/html/hotel_project/tests/Feature/ExampleTest.php
+Parsing file:///var/www/html/hotel_project/tests/CreatesApplication.php
+Parsing file:///var/www/html/hotel_project/tests/TestCase.php
+Parsing file:///var/www/html/hotel_project/tests/Unit/ExampleTest.php
+Parsing file:///var/www/html/hotel_project/server.php
+Parsing file:///var/www/html/hotel_project/storage/framework/views/90163755ad881bb40e1bc8cbb730172eee7d38f6.php
+Parsing file:///var/www/html/hotel_project/storage/framework/views/2fcaea56ffc0a3cbdc7a522d76b18b5cc3144e37.php
+Parsing file:///var/www/html/hotel_project/storage/framework/views/b9ec0b1790f15f0cb394a6e146b332f9cd0707ad.php
+Parsing file:///var/www/html/hotel_project/storage/framework/views/54c52e1ddd5e3a4449c57fc3c1bb1d66a85276f0.php
+Parsing file:///var/www/html/hotel_project/storage/framework/views/d4b53c2887079afbf889d517e7fe7464a317b238.php
+Parsing file:///var/www/html/hotel_project/storage/framework/views/1df4527914e616c0cd0c14b8b762bb8faff50854.php
+Parsing file:///var/www/html/hotel_project/storage/framework/views/0b7166d15176032e4514a4198d779433908c973f.php
+Parsing file:///var/www/html/hotel_project/storage/framework/views/58fab84df4e45afec70b0922a668daf3831f563d.php
+Parsing file:///var/www/html/hotel_project/storage/framework/views/18ec1a2cacddf057822c5545456bc61f3d06a592.php
+Parsing file:///var/www/html/hotel_project/storage/framework/views/0ff0ab41e3e187be79ff4bb6a36d8a1a0c61a3a1.php
+Parsing file:///var/www/html/hotel_project/storage/framework/views/ec8d647f015703f09e479ff7fceacfd90e5453a6.php
+Parsing file:///var/www/html/hotel_project/storage/framework/views/cb5138b41ec23f31a78cc067046314cdb634c4fd.php
+Parsing file:///var/www/html/hotel_project/storage/framework/views/f36f1e47eeea1aabd363d9a23f2ca11517e07ad5.php
+Parsing file:///var/www/html/hotel_project/storage/framework/views/111b3718d30dd22cd520b643d016ec4f65cba321.php
+Parsing file:///var/www/html/hotel_project/storage/framework/views/0f5cc830f4543e5ff12c35bee6ea0a129da9ee22.php
+Parsing file:///var/www/html/hotel_project/storage/framework/views/a744deade72cd320249cdbe78c70d8ea6f057114.php
+Parsing file:///var/www/html/hotel_project/storage/framework/views/837ef576351531491535408273b3b7e2ac479912.php
+Parsing file:///var/www/html/hotel_project/storage/framework/views/65e4c50bf449e6c11a61f58a45a6bd7216577420.php
+Parsing file:///var/www/html/hotel_project/storage/framework/views/d08fb32455ff99f2f73034fa958667ed6e52a7e1.php
+Parsing file:///var/www/html/hotel_project/storage/framework/views/a168d512af61bf32f73e4c1903dee914a39b8928.php
+Parsing file:///var/www/html/hotel_project/storage/framework/views/7b20ae55f6086e6c9626a210acc12827cc549030.php
+Parsing file:///var/www/html/hotel_project/storage/framework/views/9dc5b154defcf96560c512ed1e2dedc345cc12b5.php
+Parsing file:///var/www/html/hotel_project/storage/framework/views/5bf2510be1930ce179bf93e4eb31954bae6c471c.php
+Parsing file:///var/www/html/hotel_project/storage/framework/views/096a2f13b5667a68f6efa766587c4e2fbd200735.php
+Parsing file:///var/www/html/hotel_project/storage/framework/views/bd32def46f442f93007f4bfc9f7ecb1aa45cc630.php
+Parsing file:///var/www/html/hotel_project/storage/framework/views/50cb504da8a18a5ae7d65f2d287cb85d8d150be4.php
+Parsing file:///var/www/html/hotel_project/storage/framework/views/6689c6e929d85c527111f26e2023e8f05fa1bc70.php
+Parsing file:///var/www/html/hotel_project/database/seeders/DatabaseSeeder.php
+Parsing file:///var/www/html/hotel_project/database/factories/UserFactory.php
+Parsing file:///var/www/html/hotel_project/database/migrations/2022_03_19_194033_create_rooms_table.php
+Parsing file:///var/www/html/hotel_project/database/migrations/2022_03_20_154830_add_image_to_users_table.php
+Parsing file:///var/www/html/hotel_project/database/migrations/2022_03_19_194116_create_floors_table.php
+Parsing file:///var/www/html/hotel_project/database/migrations/2022_03_21_214344_add_change_to_rooms_table.php
+Parsing file:///var/www/html/hotel_project/database/migrations/2022_03_22_191641_add_price_to_rooms_table.php
+Parsing file:///var/www/html/hotel_project/database/migrations/2022_03_19_194640_create_with_users_table.php
+Parsing file:///var/www/html/hotel_project/database/migrations/2014_10_12_000000_create_users_table.php
+Parsing file:///var/www/html/hotel_project/database/migrations/2022_03_22_122928_add_capacity_to_rooms_table.php
+Parsing file:///var/www/html/hotel_project/database/migrations/2019_08_19_000000_create_failed_jobs_table.php
+Parsing file:///var/www/html/hotel_project/database/migrations/2014_10_12_100000_create_password_resets_table.php
+Parsing file:///var/www/html/hotel_project/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php
+Parsing file:///var/www/html/hotel_project/resources/views/manage/room/edit.blade.php
+Parsing file:///var/www/html/hotel_project/resources/views/manage/room/index.blade.php
+Parsing file:///var/www/html/hotel_project/resources/views/manage/user/edit.blade.php
+Parsing file:///var/www/html/hotel_project/resources/views/manage/user/create.blade.php
+Parsing file:///var/www/html/hotel_project/resources/views/manage/user/index.blade.php
+Parsing file:///var/www/html/hotel_project/resources/views/manage/user/show.blade.php
+Parsing file:///var/www/html/hotel_project/resources/views/manage/index.blade.php
+Parsing file:///var/www/html/hotel_project/resources/views/auth/register.blade.php
+Parsing file:///var/www/html/hotel_project/resources/views/auth/passwords/confirm.blade.php
+Parsing file:///var/www/html/hotel_project/resources/views/auth/passwords/reset.blade.php
+Parsing file:///var/www/html/hotel_project/resources/views/auth/passwords/email.blade.php
+Parsing file:///var/www/html/hotel_project/resources/views/auth/verify.blade.php
+Parsing file:///var/www/html/hotel_project/resources/views/auth/login.blade.php
+Parsing file:///var/www/html/hotel_project/resources/views/home.blade.php
+Parsing file:///var/www/html/hotel_project/resources/views/userInterface/main-page.blade.php
+Parsing file:///var/www/html/hotel_project/resources/views/userInterface/room.blade.php
+Parsing file:///var/www/html/hotel_project/resources/views/vendor/datatables/print.blade.php
+Parsing file:///var/www/html/hotel_project/resources/views/layouts/sidebar.blade.php
+Parsing file:///var/www/html/hotel_project/resources/views/layouts/app.blade.php
+Parsing file:///var/www/html/hotel_project/resources/views/layouts/nav.blade.php
+Parsing file:///var/www/html/hotel_project/resources/views/layouts/appAdmin.blade.php
+Parsing file:///var/www/html/hotel_project/resources/views/layouts/appUser.blade.php
+Parsing file:///var/www/html/hotel_project/resources/lang/en/auth.php
+Parsing file:///var/www/html/hotel_project/resources/lang/en/validation.php
+Parsing file:///var/www/html/hotel_project/resources/lang/en/pagination.php
+Parsing file:///var/www/html/hotel_project/resources/lang/en/passwords.php
+Parsing file:///var/www/html/hotel_project/routes/channels.php
+Parsing file:///var/www/html/hotel_project/routes/console.php
+Parsing file:///var/www/html/hotel_project/routes/web.php
+Parsing file:///var/www/html/hotel_project/routes/api.php
+Parsing file:///var/www/html/hotel_project/routes/manage.php
+Parsing file:///var/www/html/hotel_project/bootstrap/cache/packages.php
+Parsing file:///var/www/html/hotel_project/bootstrap/cache/services.php
+Parsing file:///var/www/html/hotel_project/bootstrap/app.php
+Parsing file:///var/www/html/hotel_project/app/Exceptions/Handler.php
+Parsing file:///var/www/html/hotel_project/app/Models/Room.php
+Parsing file:///var/www/html/hotel_project/app/Models/User.php
+Parsing file:///var/www/html/hotel_project/app/Trait/helperTrait.php
+Parsing file:///var/www/html/hotel_project/app/Trait/cleanCodeTrait.php
+Parsing file:///var/www/html/hotel_project/app/Console/Kernel.php
+Parsing file:///var/www/html/hotel_project/app/Http/Kernel.php
+Parsing file:///var/www/html/hotel_project/app/Http/Middleware/RedirectIfAuthenticated.php
+Parsing file:///var/www/html/hotel_project/app/Http/Middleware/TrimStrings.php
+Parsing file:///var/www/html/hotel_project/app/Http/Middleware/PreventRequestsDuringMaintenance.php
+Parsing file:///var/www/html/hotel_project/app/Http/Middleware/Authenticate.php
+Parsing file:///var/www/html/hotel_project/app/Http/Middleware/VerifyCsrfToken.php
+Parsing file:///var/www/html/hotel_project/app/Http/Middleware/TrustHosts.php
+Parsing file:///var/www/html/hotel_project/app/Http/Middleware/isAdmin.php
+Parsing file:///var/www/html/hotel_project/app/Http/Middleware/EncryptCookies.php
+Parsing file:///var/www/html/hotel_project/app/Http/Middleware/TrustProxies.php
+Parsing file:///var/www/html/hotel_project/app/Http/Requests/UserRequest.php
+Parsing file:///var/www/html/hotel_project/app/Http/Controllers/HomeController.php
+Parsing file:///var/www/html/hotel_project/app/Http/Controllers/manage/ManageRoomController.php
+Parsing file:///var/www/html/hotel_project/app/Http/Controllers/manage/ManageController.php
+Parsing file:///var/www/html/hotel_project/app/Http/Controllers/manage/ManageUserController.php
+Parsing file:///var/www/html/hotel_project/app/Http/Controllers/userInetrface/MainPageController.php
+Parsing file:///var/www/html/hotel_project/app/Http/Controllers/Controller.php
+Parsing file:///var/www/html/hotel_project/app/Http/Controllers/Auth/VerificationController.php
+Parsing file:///var/www/html/hotel_project/app/Http/Controllers/Auth/LoginController.php
+Parsing file:///var/www/html/hotel_project/app/Http/Controllers/Auth/ResetPasswordController.php
+Parsing file:///var/www/html/hotel_project/app/Http/Controllers/Auth/RegisterController.php
+Parsing file:///var/www/html/hotel_project/app/Http/Controllers/Auth/ConfirmPasswordController.php
+Parsing file:///var/www/html/hotel_project/app/Http/Controllers/Auth/ForgotPasswordController.php
+Parsing file:///var/www/html/hotel_project/app/Providers/EventServiceProvider.php
+Parsing file:///var/www/html/hotel_project/app/Providers/BroadcastServiceProvider.php
+Parsing file:///var/www/html/hotel_project/app/Providers/RouteServiceProvider.php
+Parsing file:///var/www/html/hotel_project/app/Providers/AuthServiceProvider.php
+Parsing file:///var/www/html/hotel_project/app/Providers/AppServiceProvider.php
+Parsing file:///var/www/html/hotel_project/vendor/autoload.php
+Parsing file:///var/www/html/hotel_project/vendor/composer/platform_check.php
+Parsing file:///var/www/html/hotel_project/vendor/composer/autoload_classmap.php
+[Info  - 11:27:12 AM] Ignoring file file:///var/www/html/hotel_project/vendor/composer/autoload_classmap.php because it exceeds size limit of 150000 bytes (815364)
+Parsing file:///var/www/html/hotel_project/vendor/composer/autoload_files.php
+Parsing file:///var/www/html/hotel_project/vendor/composer/ClassLoader.php
+Parsing file:///var/www/html/hotel_project/vendor/composer/autoload_namespaces.php
+Parsing file:///var/www/html/hotel_project/vendor/composer/installed.php
+Parsing file:///var/www/html/hotel_project/vendor/composer/autoload_static.php
+[Info  - 11:27:13 AM] Ignoring file file:///var/www/html/hotel_project/vendor/composer/autoload_static.php because it exceeds size limit of 150000 bytes (894569)
+Parsing file:///var/www/html/hotel_project/vendor/composer/autoload_real.php
+Parsing file:///var/www/html/hotel_project/vendor/composer/InstalledVersions.php
+Parsing file:///var/www/html/hotel_project/vendor/composer/autoload_psr4.php
+Parsing file:///var/www/html/hotel_project/public/index.php
+Parsing file:///var/www/html/hotel_project/config/session.php
+Parsing file:///var/www/html/hotel_project/config/datatables-buttons.php
+Parsing file:///var/www/html/hotel_project/config/queue.php
+Parsing file:///var/www/html/hotel_project/config/filesystems.php
+Parsing file:///var/www/html/hotel_project/config/mail.php
+Parsing file:///var/www/html/hotel_project/config/auth.php
+Parsing file:///var/www/html/hotel_project/config/view.php
+Parsing file:///var/www/html/hotel_project/config/hashing.php
+Parsing file:///var/www/html/hotel_project/config/database.php
+Parsing file:///var/www/html/hotel_project/config/broadcasting.php
+Parsing file:///var/www/html/hotel_project/config/cors.php
+Parsing file:///var/www/html/hotel_project/config/datatables.php
+Parsing file:///var/www/html/hotel_project/config/sanctum.php
+Parsing file:///var/www/html/hotel_project/config/app.php
+Parsing file:///var/www/html/hotel_project/config/cache.php
+Parsing file:///var/www/html/hotel_project/config/services.php
+Parsing file:///var/www/html/hotel_project/config/logging.php
+[Info  - 11:27:13 AM] 127 Packages
+[Info  - 11:27:13 AM] Restored dragonmantank/cron-expression:3.3.1 from cache
+[Info  - 11:27:13 AM] Restored phpunit/phpunit:9.5.19 from cache
+[Info  - 11:27:13 AM] Restored phpunit/php-timer:5.0.3 from cache
+[Info  - 11:27:13 AM] Restored phpunit/php-file-iterator:3.0.6 from cache
+[Info  - 11:27:13 AM] Restored phpunit/php-code-coverage:9.2.15 from cache
+[Info  - 11:27:14 AM] Restored phpunit/php-invoker:3.1.1 from cache
+[Info  - 11:27:14 AM] Restored phpunit/php-text-template:2.0.4 from cache
+[Info  - 11:27:14 AM] Restored fakerphp/faker:1.19.0 from cache
+[Info  - 11:27:14 AM] Restored mockery/mockery:1.5.0 from cache
+[Info  - 11:27:14 AM] Restored laravelcollective/html:6.3.0 from cache
+[Info  - 11:27:14 AM] Restored voku/portable-ascii:1.6.1 from cache
+[Info  - 11:27:15 AM] Restored hamcrest/hamcrest-php:2.0.1 from cache
+[Info  - 11:27:15 AM] Restored nunomaduro/collision:5.11.0 from cache
+[Info  - 11:27:15 AM] Restored phpdocumentor/reflection-docblock:5.3.0 from cache
+[Info  - 11:27:15 AM] Restored phpdocumentor/reflection-common:2.2.0 from cache
+[Info  - 11:27:15 AM] Restored phpdocumentor/type-resolver:1.6.0 from cache
+[Info  - 11:27:15 AM] Restored facade/ignition-contracts:1.0.2 from cache
+[Info  - 11:27:15 AM] Restored facade/flare-client-php:1.9.1 from cache
+[Info  - 11:27:15 AM] Restored facade/ignition:2.17.5 from cache
+[Info  - 11:27:15 AM] Restored sebastian/exporter:4.0.4 from cache
+[Info  - 11:27:15 AM] Restored sebastian/environment:5.1.3 from cache
+[Info  - 11:27:15 AM] Restored sebastian/recursion-context:4.0.4 from cache
+[Info  - 11:27:15 AM] Restored sebastian/cli-parser:1.0.1 from cache
+[Info  - 11:27:15 AM] Restored sebastian/object-reflector:2.0.4 from cache
+[Info  - 11:27:15 AM] Restored sebastian/complexity:2.0.2 from cache
+[Info  - 11:27:15 AM] Restored sebastian/object-enumerator:4.0.4 from cache
+[Info  - 11:27:15 AM] Restored sebastian/comparator:4.0.6 from cache
+[Info  - 11:27:15 AM] Restored sebastian/type:3.0.0 from cache
+[Info  - 11:27:15 AM] Restored sebastian/code-unit-reverse-lookup:2.0.3 from cache
+[Info  - 11:27:15 AM] Restored sebastian/version:3.0.2 from cache
+[Info  - 11:27:15 AM] Restored sebastian/lines-of-code:1.0.3 from cache
+[Info  - 11:27:15 AM] Restored sebastian/resource-operations:3.0.3 from cache
+[Info  - 11:27:15 AM] Restored sebastian/code-unit:1.0.8 from cache
+[Info  - 11:27:16 AM] Restored sebastian/global-state:5.0.5 from cache
+[Info  - 11:27:16 AM] Restored sebastian/diff:4.0.4 from cache
+[Info  - 11:27:16 AM] Restored phpspec/prophecy:1.15.0 from cache
+[Info  - 11:27:17 AM] Restored tijsverkoyen/css-to-inline-styles:2.2.4 from cache
+[Info  - 11:27:17 AM] Restored doctrine/instantiator:1.4.1 from cache
+[Info  - 11:27:17 AM] Restored doctrine/lexer:1.2.3 from cache
+[Info  - 11:27:17 AM] Restored doctrine/deprecations:0.5.3 from cache
+[Info  - 11:27:17 AM] Restored doctrine/event-manager:1.1.1 from cache
+[Info  - 11:27:19 AM] Restored doctrine/inflector:2.0.4 from cache
+[Info  - 11:27:19 AM] Restored doctrine/dbal:3.3.3 from cache
+[Info  - 11:27:20 AM] Restored doctrine/cache:2.1.1 from cache
+[Info  - 11:27:20 AM] Restored nikic/php-parser:4.13.2 from cache
+[Info  - 11:27:20 AM] Restored opis/closure:3.6.3 from cache
+[Info  - 11:27:20 AM] Restored phar-io/version:3.2.1 from cache
+[Info  - 11:27:20 AM] Restored phar-io/manifest:2.0.3 from cache
+[Info  - 11:27:21 AM] Restored monolog/monolog:2.4.0 from cache
+[Info  - 11:27:21 AM] Restored ezyang/htmlpurifier:4.14.0 from cache
+[Info  - 11:27:21 AM] Restored ramsey/collection:1.2.2 from cache
+[Info  - 11:27:21 AM] Restored ramsey/uuid:4.2.3 from cache
+[Info  - 11:27:21 AM] Restored psy/psysh:0.11.2 from cache
+[Info  - 11:27:21 AM] Restored dflydev/dot-access-data:3.0.1 from cache
+[Info  - 11:27:21 AM] Restored fruitcake/laravel-cors:2.2.0 from cache
+[Info  - 11:27:21 AM] Restored brick/math:0.9.3 from cache
+[Info  - 11:27:22 AM] Restored ralouphie/getallheaders:3.0.3 from cache
+[Info  - 11:27:22 AM] Restored phpoffice/phpspreadsheet:1.22.0 from cache
+[Info  - 11:27:22 AM] Restored laravel/tinker:2.7.1 from cache
+[Info  - 11:27:23 AM] Restored laravel/serializable-closure:1.1.1 from cache
+[Info  - 11:27:24 AM] Restored laravel/framework:8.83.5 from cache
+[Info  - 11:27:24 AM] Restored laravel/ui:3.4.5 from cache
+[Info  - 11:27:24 AM] Restored laravel/sail:1.13.7 from cache
+[Info  - 11:27:25 AM] Restored laravel/sanctum:2.14.2 from cache
+[Info  - 11:27:25 AM] Restored yajra/laravel-datatables-html:4.41.1 from cache
+[Info  - 11:27:25 AM] Restored yajra/laravel-datatables-buttons:4.13.3 from cache
+[Info  - 11:27:25 AM] Restored yajra/laravel-datatables-oracle:9.19.1 from cache
+[Info  - 11:27:26 AM] Restored maennchen/zipstream-php:2.1.0 from cache
+[Info  - 11:27:27 AM] Restored league/commonmark:2.2.3 from cache
+[Info  - 11:27:27 AM] Restored league/flysystem:1.1.9 from cache
+[Info  - 11:27:27 AM] Restored league/mime-type-detection:1.9.0 from cache
+[Info  - 11:27:27 AM] Restored league/config:1.1.1 from cache
+[Info  - 11:27:28 AM] Restored swiftmailer/swiftmailer:6.3.0 from cache
+[Info  - 11:27:28 AM] Restored webmozart/assert:1.10.0 from cache
+[Info  - 11:27:28 AM] Restored maatwebsite/excel:3.1.37 from cache
+[Info  - 11:27:28 AM] Restored symfony/polyfill-php81:1.25.0 from cache
+[Info  - 11:27:28 AM] Restored symfony/http-kernel:5.4.6 from cache
+[Info  - 11:27:28 AM] Restored symfony/translation:6.0.6 from cache
+[Info  - 11:27:28 AM] Restored symfony/polyfill-php80:1.25.0 from cache
+[Info  - 11:27:29 AM] Restored symfony/http-foundation:5.4.6 from cache
+[Info  - 11:27:29 AM] Restored symfony/mime:5.4.3 from cache
+[Info  - 11:27:29 AM] Restored symfony/polyfill-intl-grapheme:1.25.0 from cache
+[Info  - 11:27:29 AM] Restored symfony/service-contracts:2.4.1 from cache
+[Info  - 11:27:29 AM] Restored symfony/polyfill-php72:1.25.0 from cache
+[Info  - 11:27:29 AM] Restored symfony/process:5.4.5 from cache
+[Info  - 11:27:29 AM] Restored symfony/finder:5.4.3 from cache
+[Info  - 11:27:29 AM] Restored symfony/event-dispatcher:6.0.3 from cache
+[Info  - 11:27:29 AM] Restored symfony/event-dispatcher-contracts:3.0.0 from cache
+[Info  - 11:27:29 AM] Restored symfony/console:5.4.5 from cache
+[Info  - 11:27:29 AM] Restored symfony/css-selector:6.0.3 from cache
+[Info  - 11:27:30 AM] Restored symfony/string:6.0.3 from cache
+[Info  - 11:27:30 AM] Restored symfony/translation-contracts:3.0.0 from cache
+[Info  - 11:27:30 AM] Restored symfony/polyfill-intl-normalizer:1.25.0 from cache
+[Info  - 11:27:30 AM] Restored symfony/var-dumper:5.4.6 from cache
+[Info  - 11:27:30 AM] Restored symfony/routing:5.4.3 from cache
+[Info  - 11:27:30 AM] Restored symfony/polyfill-mbstring:1.25.0 from cache
+[Info  - 11:27:30 AM] Restored symfony/error-handler:5.4.3 from cache
+[Info  - 11:27:30 AM] Restored symfony/polyfill-ctype:1.25.0 from cache
+[Info  - 11:27:30 AM] Restored symfony/deprecation-contracts:3.0.0 from cache
+[Info  - 11:27:30 AM] Restored symfony/polyfill-intl-idn:1.25.0 from cache
+[Info  - 11:27:30 AM] Restored symfony/polyfill-iconv:1.25.0 from cache
+[Info  - 11:27:30 AM] Restored symfony/polyfill-php73:1.25.0 from cache
+[Info  - 11:27:30 AM] Restored asm89/stack-cors:2.1.1 from cache
+[Info  - 11:27:30 AM] Restored phpoption/phpoption:1.8.1 from cache
+[Info  - 11:27:30 AM] Restored graham-campbell/result-type:1.0.4 from cache
+[Info  - 11:27:31 AM] Restored myclabs/php-enum:1.8.3 from cache
+[Info  - 11:27:31 AM] Restored myclabs/deep-copy:1.11.0 from cache
+[Info  - 11:27:31 AM] Restored psr/simple-cache:1.0.1 from cache
+[Info  - 11:27:31 AM] Restored psr/event-dispatcher:1.0.0 from cache
+[Info  - 11:27:31 AM] Restored psr/cache:3.0.0 from cache
+[Info  - 11:27:31 AM] Restored psr/http-message:1.0.1 from cache
+[Info  - 11:27:31 AM] Restored psr/log:2.0.0 from cache
+[Info  - 11:27:31 AM] Restored psr/http-factory:1.0.1 from cache
+[Info  - 11:27:31 AM] Restored psr/http-client:1.0.1 from cache
+[Info  - 11:27:31 AM] Restored psr/container:1.1.2 from cache
+[Info  - 11:27:31 AM] Restored guzzlehttp/guzzle:7.4.2 from cache
+[Info  - 11:27:31 AM] Restored guzzlehttp/promises:1.5.1 from cache
+[Info  - 11:27:31 AM] Restored guzzlehttp/psr7:2.2.1 from cache
+[Info  - 11:27:31 AM] Restored theseer/tokenizer:1.2.1 from cache
+[Info  - 11:27:31 AM] Restored markbaker/matrix:3.0.0 from cache
+[Info  - 11:27:31 AM] Restored markbaker/complex:3.0.1 from cache
+[Info  - 11:27:31 AM] Restored nesbot/carbon:2.57.0 from cache
+[Info  - 11:27:31 AM] Restored vlucas/phpdotenv:5.4.1 from cache
+[Info  - 11:27:32 AM] Restored filp/whoops:2.14.5 from cache
+[Info  - 11:27:32 AM] Restored egulias/email-validator:2.1.25 from cache
+[Info  - 11:27:32 AM] Restored nette/utils:3.2.7 from cache
+[Info  - 11:27:32 AM] Restored nette/schema:1.2.2 from cache
+[Info  - 11:27:32 AM] All 7891 PHP files parsed in 23 seconds. 596 MiB allocated.

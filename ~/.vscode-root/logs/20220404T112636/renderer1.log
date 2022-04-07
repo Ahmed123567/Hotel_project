@@ -1,0 +1,4 @@
+[2022-04-04 11:26:43.480] [renderer1] [info] Ignoring configured affinity for 'pub.name' because the extension is unknown or cannot execute.
+[2022-04-04 11:26:43.763] [renderer1] [info] Ignoring configured affinity for 'pub.name' because the extension is unknown or cannot execute.
+[2022-04-04 11:26:43.989] [renderer1] [error] ["Error: Unknown or unsupported transport “disabled” for address “disabled:”"]
+[2022-04-04 11:26:43.990] [renderer1] [warning] Settings Sync: Accounts are not initialized
