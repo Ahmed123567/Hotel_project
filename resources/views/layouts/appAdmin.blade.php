@@ -30,8 +30,8 @@
 <body class="sidebar-mini layout-fixed layout-navbar-fixed">
     <div id="app">
    
-        @include('layouts.nav')
-        @include('layouts.sidebar')
+        @include('layouts.navAdmin')
+        @include('layouts.sidebarAdmin')
     
 
         <main class="py-4">

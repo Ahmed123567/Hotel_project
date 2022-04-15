@@ -37,13 +37,13 @@
             <div class="col col-md-4">
                 <div class="small-box bg-danger">
                     <div class="inner">
-                        <h3>150</h3>
+                        <h3>{{$numberOfFloors}}</h3>
                         <p>Floors</p>
                     </div>
                     <div class="icon">
                         <i class="fa-solid fa-stairs"></i>
                     </div>
-                    <a href="#" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
+                    <a href="{{route('manage.floors.index')}}" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
                 </div>
 
             </div>

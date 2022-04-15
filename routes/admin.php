@@ -2,6 +2,7 @@
 
 use App\Http\Controllers\HomeController;
 use App\Http\Controllers\manage\ManageController;
+use App\Http\Controllers\manage\ManageFloorController;
 use App\Http\Controllers\manage\ManageRoomController;
 use App\Http\Controllers\manage\ManageUserController;
 use Illuminate\Support\Facades\Auth;
@@ -53,3 +54,18 @@ Route::group(['prefix'=> 'rooms'], function(){
 
 });
 
+Route::group(['prefix'=> 'floor'], function(){
+    
+    Route::get('/', [ManageFloorController::class , 'index'])->name('manage.floors.index');
+
+
+    Route::get('delete/{floor_id}', [ManageFloorController::class, 'delete'])->name('manage.floors.delete');
+
+
+    Route::post('store', [ManageFloorController::class, 'store'])->name('manage.floors.store');
+
+    Route::post('price-change', [ManageFloorController::class, 'priceChange'])->name('manage.floors.priceChange');
+
+
+
+});

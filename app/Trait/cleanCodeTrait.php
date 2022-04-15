@@ -3,6 +3,7 @@
 namespace App\Trait;
 
 use App\Models\Room;
+use Carbon\Carbon;
 use Yajra\DataTables\Facades\DataTables;
 
 trait cleanCodeTrait
@@ -63,4 +64,32 @@ trait cleanCodeTrait
             ->rawColumns(['action'])
             ->make(true);
     }
+
+    public function floorsDataTables($data)
+    {
+
+        return DataTables::of($data)
+            ->addIndexColumn()
+            ->addColumn('creator', function($row){
+                $creator = $row->user->name;
+                return $creator;
+            })
+            ->addColumn('created', function($row){
+
+                $created_at = Carbon::createFromFormat('Y-m-d H:i:s', $row->created_at)->format('Y-m-d H:i:s');
+                return $created_at;
+            })
+            ->addColumn('action', function ($row) {
+                $actionBtn = "
+                    <a href='http://127.0.0.1:8000/manage/floor/delete/$row->id' class='btn btn-danger btn-sm'
+                    
+                    onclick='return confirm( \"Are you sure?\" )' >Delete</a>
+                     ";
+            
+                return $actionBtn;
+            })
+            ->rawColumns(['action'])
+            ->make(true);
+    }
 }
+
