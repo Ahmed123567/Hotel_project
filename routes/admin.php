@@ -54,18 +54,14 @@ Route::group(['prefix'=> 'rooms'], function(){
 
 });
 
+
+// floor routes
 Route::group(['prefix'=> 'floor'], function(){
     
     Route::get('/', [ManageFloorController::class , 'index'])->name('manage.floors.index');
 
-
     Route::get('delete/{floor_id}', [ManageFloorController::class, 'delete'])->name('manage.floors.delete');
 
-
     Route::post('store', [ManageFloorController::class, 'store'])->name('manage.floors.store');
-
-    Route::post('price-change', [ManageFloorController::class, 'priceChange'])->name('manage.floors.priceChange');
-
-
-
+ 
 });
