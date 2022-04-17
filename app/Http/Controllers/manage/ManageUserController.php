@@ -81,7 +81,7 @@ class ManageUserController extends Controller
         $userData = $request->all();
 
         if ($request->file('image') == null) {
-            $imageName = 'default.png';
+            $imageName = 'default.jpg';
         } else {
             $imageName = $this->imageUpload($request);
         }

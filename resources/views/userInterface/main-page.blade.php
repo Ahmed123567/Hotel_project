@@ -15,54 +15,54 @@
             <div class="row">
                 <div class="col-sm col-md-6 col-lg-4 ftco-animate">
                     <div class="room">
-                        <a href="{{route('main.room')}}" class="img d-flex justify-content-center align-items-center"
+                        <a href="{{route('main.room', ['room_type' => 2])}}" class="img d-flex justify-content-center align-items-center"
                             style="background-image: url(assets/room-1.jpg);">
                             <div class="icon d-flex justify-content-center align-items-center">
                                 <span class="icon-search2"></span>
                             </div>
                         </a>
                         <div class="text p-3 text-center">
-                            <h3 class="mb-3"><a href="{{route('main.room')}}">Suite Room</a></h3>
-                            <p><span class="price mr-2">$120.00</span> <span class="per">per night</span>
+                            <h3 class="mb-3"><a href="{{route('main.room' , ['room_type' => 2])}}">Tow Presons Room</a></h3>
+                            <p><span class="price mr-2">{{$roomPrice2}}</span> <span class="per">per night</span>
                             </p>
                             <hr>
-                            <p class="pt-1"><a href="room-single.html" class="btn-custom">View Room
+                            <p class="pt-1"><a href="{{route('main.room', ['room_type' => 2])}}" class="btn-custom">View Room
                                     Details <span class="icon-long-arrow-right"></span></a></p>
                         </div>
                     </div>
                 </div>
                 <div class="col-sm col-md-6 col-lg-4 ftco-animate">
                     <div class="room">
-                        <a href="{{route('main.room')}}" class="img d-flex justify-content-center align-items-center"
+                        <a href="{{route('main.room', ['room_type' => 3])}}" class="img d-flex justify-content-center align-items-center"
                             style="background-image: url(assets/room-2.jpg);">
                             <div class="icon d-flex justify-content-center align-items-center">
                                 <span class="icon-search2"></span>
                             </div>
                         </a>
                         <div class="text p-3 text-center">
-                            <h3 class="mb-3"><a href="{{route('main.room')}}">Family Room</a></h3>
-                            <p><span class="price mr-2">$20.00</span> <span class="per">per night</span>
+                            <h3 class="mb-3"><a href="{{route('main.room', ['room_type' => 3])}}">Three Presons Room</a></h3>
+                            <p><span class="price mr-2">{{$roomPrice3}}</span> <span class="per">per night</span>
                             </p>
                             <hr>
-                            <p class="pt-1"><a href="room-single.html" class="btn-custom">View Room
+                            <p class="pt-1"><a href="{{route('main.room', ['room_type' => 3])}}" class="btn-custom">View Room
                                     Details <span class="icon-long-arrow-right"></span></a></p>
                         </div>
                     </div>
                 </div>
                 <div class="col-sm col-md-6 col-lg-4 ftco-animate">
                     <div class="room">
-                        <a href="{{route('main.room')}}" class="img d-flex justify-content-center align-items-center"
+                        <a href="{{route('main.room', ['room_type' => 5])}}" class="img d-flex justify-content-center align-items-center"
                             style="background-image: url(assets/room-3.jpg);">
                             <div class="icon d-flex justify-content-center align-items-center">
                                 <span class="icon-search2"></span>
                             </div>
                         </a>
                         <div class="text p-3 text-center">
-                            <h3 class="mb-3"><a href="{{route('main.room')}}">Hotel Room</a></h3>
-                            <p><span class="price mr-2">$150.00</span> <span class="per">per night</span>
+                            <h3 class="mb-3"><a href="{{route('main.room', ['room_type' => 5])}}">Five Presons Room</a></h3>
+                            <p><span class="price mr-2">{{$roomPrice5}}</span> <span class="per">per night</span>
                             </p>
                             <hr>
-                            <p class="pt-1"><a href="room-single.html" class="btn-custom">View Room
+                            <p class="pt-1"><a href="{{route('main.room', ['room_type' => 5])}}" class="btn-custom">View Room
                                     Details <span class="icon-long-arrow-right"></span></a></p>
                         </div>
                     </div>

@@ -13,7 +13,7 @@ Route::get('manager', [ManageController::class , 'index'])->name('manage.index')
 
 
 
-///////////////////////////////////////////////////////// manage users/////////////////////////////////////////// 
+// users routes
 
 Route::group(['prefix'=> 'users'], function(){
     Route::get('/', [ManageUserController::class , 'index'])->name('manage.users.index');
@@ -34,7 +34,7 @@ Route::group(['prefix'=> 'users'], function(){
 });
 
 
-///////////////////////////////////// manage rooms////////////////////////////////////////////////////////
+//room routes
 
 Route::group(['prefix'=> 'rooms'], function(){
     
@@ -56,7 +56,7 @@ Route::group(['prefix'=> 'rooms'], function(){
 
 
 // floor routes
-Route::group(['prefix'=> 'floor'], function(){
+Route::group(['prefix'=> 'floors'], function(){
     
     Route::get('/', [ManageFloorController::class , 'index'])->name('manage.floors.index');
 
